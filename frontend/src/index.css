@@ -1,0 +1,42 @@
+@import './styles/theme.css';
+@import './styles/layout.css';
+@import './styles/components.css';
+
+/* Print styles for POS Invoices & Reports */
+@media print {
+  .sidebar,
+  .top-navbar,
+  .btn,
+  .pos-cart-panel,
+  .filter-bar,
+  .page-header-actions {
+    display: none !important;
+  }
+
+  .main-wrapper {
+    margin-right: 0 !important;
+  }
+
+  .page-content {
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+
+  .card {
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+}
+
+.print-only {
+  display: none;
+}

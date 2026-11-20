@@ -1,0 +1,5024 @@
+{
+  "warehouses": [
+    {
+      "warehouse_id": 1,
+      "warehouse_name": "مستودع العزبي الرئيسي - مدينة نصر",
+      "capacity": 100000,
+      "governorate": "القاهرة",
+      "city": "مدينة نصر",
+      "street": "شارع الطيران المنطقة الصناعية"
+    },
+    {
+      "warehouse_id": 2,
+      "warehouse_name": "مستودع الدلتا اللوجستي - طنطا",
+      "capacity": 75000,
+      "governorate": "الغربية",
+      "city": "طنطا",
+      "street": "طريق طنطا الإسكندرية الزراعي"
+    },
+    {
+      "warehouse_id": 3,
+      "warehouse_name": "مستودع الإسكندرية الإقليمي - سموحة",
+      "capacity": 80000,
+      "governorate": "الإسكندرية",
+      "city": "سموحة",
+      "street": "شارع فوزي معاذ خلف التأمين"
+    },
+    {
+      "warehouse_id": 4,
+      "warehouse_name": "مستودع الجيزة المركزي - أكتوبر",
+      "capacity": 95000,
+      "governorate": "الجيزة",
+      "city": "6 أكتوبر",
+      "street": "المنطقة الصناعية الثالثة بلوك 12"
+    },
+    {
+      "warehouse_id": 5,
+      "warehouse_name": "مستودع الصعيد الإمدادي - أسيوط",
+      "capacity": 60000,
+      "governorate": "أسيوط",
+      "city": "أسيوط",
+      "street": "شارع الثورة بجوار مصنع المحالي"
+    },
+    {
+      "warehouse_id": 6,
+      "warehouse_name": "مستودع مدن القناة - الإسماعيلية",
+      "capacity": 55000,
+      "governorate": "الإسماعيلية",
+      "city": "الإسماعيلية",
+      "street": "طريق البلاجات الرئيسي المنطقة الحرة"
+    },
+    {
+      "warehouse_id": 7,
+      "warehouse_name": "مستودع مخزون الطوارئ - العبور",
+      "capacity": 90000,
+      "governorate": "القليوبية",
+      "city": "العبور",
+      "street": "المنطقة الصناعية الأولى ب"
+    },
+    {
+      "warehouse_id": 8,
+      "warehouse_name": "مستودع الدقهلية والمحافظات - المنصورة",
+      "capacity": 50000,
+      "governorate": "الدقهلية",
+      "city": "المنصورة",
+      "street": "شارع قناة السويس أمام جديلة"
+    },
+    {
+      "warehouse_id": 9,
+      "warehouse_name": "مستودع السويس لشرق مصر",
+      "capacity": 45000,
+      "governorate": "السويس",
+      "city": "الأربعين",
+      "street": "طريق السويس الإسماعيلية"
+    },
+    {
+      "warehouse_id": 10,
+      "warehouse_name": "مستودع التوزيع السريع - التجمع",
+      "capacity": 70000,
+      "governorate": "القاهرة",
+      "city": "القاهرة الجديدة",
+      "street": "المنطقة الصناعية التجمع الثالث"
+    },
+    {
+      "warehouse_id": 11,
+      "warehouse_name": "مستودع جنوب الصعيد - سوهاج",
+      "capacity": 40000,
+      "governorate": "سوهاج",
+      "city": "سوهاج",
+      "street": "شارع أسيوط سوهاج الزراعي"
+    },
+    {
+      "warehouse_id": 12,
+      "warehouse_name": "مستودع الشرقية للتخزين - الزقازيق",
+      "capacity": 48000,
+      "governorate": "الشرقية",
+      "city": "الزقازيق",
+      "street": "شارع طلبة عويضة طريق القنايات"
+    },
+    {
+      "warehouse_id": 13,
+      "warehouse_name": "مستودع بورسعيد الحُر - بورسعيد",
+      "capacity": 35000,
+      "governorate": "بورسعيد",
+      "city": "المناخ",
+      "street": "شارع مصطفى كامل خلف الجمارك"
+    },
+    {
+      "warehouse_id": 14,
+      "warehouse_name": "مستودع دمياط والمستلزمات - دمياط",
+      "capacity": 38000,
+      "governorate": "دمياط",
+      "city": "دمياط الجديدة",
+      "street": "المنطقة الصناعية حول الميناء"
+    },
+    {
+      "warehouse_id": 15,
+      "warehouse_name": "مستودع شمال الصعيد - الفيوم",
+      "capacity": 32000,
+      "governorate": "الفيوم",
+      "city": "الفيوم",
+      "street": "شارع أحمد شوقي بجوار الكوبري"
+    },
+    {
+      "warehouse_id": 16,
+      "warehouse_name": "مستودع المنيا الإقليمي المساعد",
+      "capacity": 37000,
+      "governorate": "المنيا",
+      "city": "المنيا",
+      "street": "طريق مصر أسوان الزراعي شاهين"
+    },
+    {
+      "warehouse_id": 17,
+      "warehouse_name": "مستودع قنا الإمدادي الفرعي",
+      "capacity": 30000,
+      "governorate": "قنا",
+      "city": "قنا",
+      "street": "شارع مصنع الغزل والنسيج"
+    },
+    {
+      "warehouse_id": 18,
+      "warehouse_name": "مستودع سياحي - شرم الشيخ",
+      "capacity": 25000,
+      "governorate": "جنوب سيناء",
+      "city": "شرم الشيخ",
+      "street": "طريق السلام الهضبة"
+    },
+    {
+      "warehouse_id": 19,
+      "warehouse_name": "مستودع ساحلي - الغردقة",
+      "capacity": 28000,
+      "governorate": "البحر الأحمر",
+      "city": "الغردقة",
+      "street": "طريق النصر الدهار"
+    },
+    {
+      "warehouse_id": 20,
+      "warehouse_name": "مستودع أسوان والأقصر - أسوان",
+      "capacity": 34000,
+      "governorate": "أسوان",
+      "city": "أسوان",
+      "street": "طريق السادات السيل"
+    },
+    {
+      "warehouse_id": 21,
+      "warehouse_name": "مستودع مطروح والساحل - مطروح",
+      "capacity": 22000,
+      "governorate": "مطروح",
+      "city": "مرسى مطروح",
+      "street": "شارع علم الروم الرئيسي"
+    },
+    {
+      "warehouse_id": 22,
+      "warehouse_name": "مستودع العريش المساعد",
+      "capacity": 20000,
+      "governorate": "شمال سيناء",
+      "city": "العريش",
+      "street": "شارع الفاتح الساحلي"
+    },
+    {
+      "warehouse_id": 23,
+      "warehouse_name": "مستودع البحيرة للتوزيع - دمنهور",
+      "capacity": 41000,
+      "governorate": "البحيرة",
+      "city": "دمنهور",
+      "street": "شارع عبد السلام عارف الكوبري"
+    },
+    {
+      "warehouse_id": 24,
+      "warehouse_name": "مستودع كفر الشيخ للتوريدات",
+      "capacity": 33000,
+      "governorate": "كفر الشيخ",
+      "city": "كفر الشيخ",
+      "street": "طريق دسوق كفر الشيخ"
+    },
+    {
+      "warehouse_id": 25,
+      "warehouse_name": "مستودع المنوفية اللوجستي - شبين",
+      "capacity": 39000,
+      "governorate": "المنوفية",
+      "city": "شبين الكوم",
+      "street": "شارع صبري قاضي خلف الاستاد"
+    },
+    {
+      "warehouse_id": 26,
+      "warehouse_name": "مستودع بني سويف التابع للمركز",
+      "capacity": 31000,
+      "governorate": "بني سويف",
+      "city": "بني سويف",
+      "street": "شارع صلاح سالم أمام المحافظة"
+    },
+    {
+      "warehouse_id": 27,
+      "warehouse_name": "مستودع القناطر والمنطقة الشمالية",
+      "capacity": 29000,
+      "governorate": "القليوبية",
+      "city": "القناطر الخيرية",
+      "street": "كورنيش النيل بجوار المحكمة"
+    },
+    {
+      "warehouse_id": 28,
+      "warehouse_name": "مستودع المحلة الكبرى الإضافي",
+      "capacity": 43000,
+      "governorate": "الغربية",
+      "city": "المحلة الكبرى",
+      "street": "شارع شكري القواتلي منشية البكري"
+    },
+    {
+      "warehouse_id": 29,
+      "warehouse_name": "مستودع ميت غمر الدوائي النامي",
+      "capacity": 27000,
+      "governorate": "الدقهلية",
+      "city": "ميت غمر",
+      "street": "شارع بورسعيد طريق بنها"
+    },
+    {
+      "warehouse_id": 30,
+      "warehouse_name": "مستودع العاشر من رمضان الاستراتيجي",
+      "capacity": 85000,
+      "governorate": "الشرقية",
+      "city": "العاشر من رمضان",
+      "street": "المنطقة الصناعية أ1 طريق الإسماعيلية"
+    },
+    {
+      "warehouse_id": 31,
+      "warehouse_name": "مستودع السادات اللوجستي الكيماوي",
+      "capacity": 72000,
+      "governorate": "المنوفية",
+      "city": "مدينة السادات",
+      "street": "المنطقة الصناعية الرابعة الامتداد"
+    },
+    {
+      "warehouse_id": 32,
+      "warehouse_name": "مستودع المنيا الجديدة الحديث",
+      "capacity": 42000,
+      "governorate": "المنيا",
+      "city": "المنيا الجديدة",
+      "street": "الحي الصناعي بجوار جهاز المدينة"
+    },
+    {
+      "warehouse_id": 33,
+      "warehouse_name": "مستودع أسيوط الجديدة الداعم",
+      "capacity": 44000,
+      "governorate": "أسيوط",
+      "city": "أسيوط الجديدة",
+      "street": "منطقة المطورين والمخازن"
+    },
+    {
+      "warehouse_id": 34,
+      "warehouse_name": "مستودع طيبة لخدمة الأقصر",
+      "capacity": 26000,
+      "governorate": "الأقصر",
+      "city": "طيبة الجديدة",
+      "street": "المنطقة الصناعية الأولى مقبرة 5"
+    },
+    {
+      "warehouse_id": 35,
+      "warehouse_name": "مستودع أسوان الجديدة الإمدادي",
+      "capacity": 27500,
+      "governorate": "أسوان",
+      "city": "أسوان الجديدة",
+      "street": "المحور الخدمي الغربي لأسوان"
+    },
+    {
+      "warehouse_id": 36,
+      "warehouse_name": "مستودع قنا الجديدة المكمل",
+      "capacity": 24500,
+      "governorate": "قنا",
+      "city": "قنا الجديدة",
+      "street": "المنطقة الصناعية خلف الموقف"
+    },
+    {
+      "warehouse_id": 37,
+      "warehouse_name": "مستودع سوهاج الجديدة المساعد",
+      "capacity": 29500,
+      "governorate": "سوهاج",
+      "city": "سوهاج الجديدة",
+      "street": "منطقة الصناعات المتوسطة الحي الثالث"
+    },
+    {
+      "warehouse_id": 38,
+      "warehouse_name": "مستودع بني سويف الجديدة النامي",
+      "capacity": 30500,
+      "governorate": "بني سويف",
+      "city": "بني سويف الجديدة",
+      "street": "المنطقة الصناعية الشرقية ب 3"
+    },
+    {
+      "warehouse_id": 39,
+      "warehouse_name": "مستودع الفيوم الجديدة اللوجستي",
+      "capacity": 21500,
+      "governorate": "الفيوم",
+      "city": "الفيوم الجديدة",
+      "street": "الحي الثالث المجاورة الثانية"
+    },
+    {
+      "warehouse_id": 40,
+      "warehouse_name": "مستودع الصالحية الطبي المتميز",
+      "capacity": 46000,
+      "governorate": "الشرقية",
+      "city": "الصالحية الجديدة",
+      "street": "المنطقة الصناعية الأولى بلوك 50"
+    },
+    {
+      "warehouse_id": 41,
+      "warehouse_name": "مستودع النوبارية للتصنيع اللوجستي",
+      "capacity": 36500,
+      "governorate": "البحيرة",
+      "city": "النوبارية الجديدة",
+      "street": "المنطقة الصناعية الثانية طريق زراعي"
+    },
+    {
+      "warehouse_id": 42,
+      "warehouse_name": "مستودع برج العرب الدوائي الأكبر",
+      "capacity": 88000,
+      "governorate": "الإسكندرية",
+      "city": "برج العرب الجديدة",
+      "street": "المنطقة الصناعية الخامسة بلوك 7"
+    },
+    {
+      "warehouse_id": 43,
+      "warehouse_name": "مستودع دمياط الجديدة الساحلي المطور",
+      "capacity": 40500,
+      "governorate": "دمياط",
+      "city": "دمياط الجديدة",
+      "street": "المنطقة الصناعية المركزية مجاورة 1"
+    },
+    {
+      "warehouse_id": 44,
+      "warehouse_name": "مستودع الشروق لشرق القاهرة",
+      "capacity": 34000,
+      "governorate": "القاهرة",
+      "city": "الشروق",
+      "street": "منطقة الورش المتاحة خلف السنترال"
+    },
+    {
+      "warehouse_id": 45,
+      "warehouse_name": "مستودع بدر اللوجستي المساعد للقرى",
+      "capacity": 52000,
+      "governorate": "القاهرة",
+      "city": "بدر",
+      "street": "المنطقة الصناعية المركزية ب 2"
+    },
+    {
+      "warehouse_id": 46,
+      "warehouse_name": "مستودع هليوبوليس الطبي النامي",
+      "capacity": 33500,
+      "governorate": "القاهرة",
+      "city": "هليوبوليس الجديدة",
+      "street": "الحي الطبي المتميز"
+    },
+    {
+      "warehouse_id": 47,
+      "warehouse_name": "مستودع كوم أمبو الزراعي الدوائي",
+      "capacity": 23000,
+      "governorate": "أسوان",
+      "city": "كوم أمبو",
+      "street": "شارع السكة الحديد بجوار الموقف"
+    },
+    {
+      "warehouse_id": 48,
+      "warehouse_name": "مستودع إدفو اللوجستي الإضافي",
+      "capacity": 21000,
+      "governorate": "أسوان",
+      "city": "إدفو",
+      "street": "شارع المعبد الميدان الرئيسي"
+    },
+    {
+      "warehouse_id": 49,
+      "warehouse_name": "مستودع نجع حمادي الفرعي الهام",
+      "capacity": 22500,
+      "governorate": "قنا",
+      "city": "نجع حمادي",
+      "street": "شارع 23 يوليو خلف بنك مصر"
+    },
+    {
+      "warehouse_id": 50,
+      "warehouse_name": "مستودع إسنا المكمل للجنوب الأقصى",
+      "capacity": 19000,
+      "governorate": "الأقصر",
+      "city": "إسنا",
+      "street": "شارع كورنيش النيل الممر الجديد"
+    }
+  ],
+  "suppliers": [
+    {
+      "supplier_id": 1,
+      "email": "info@pfizer.com.eg",
+      "company_name": "شركة فايزر مصر للاستيراد والتصنيع",
+      "governorate": "القاهرة",
+      "city": "مصر الجديدة",
+      "street": "شارع الأهرام الرئيسي",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 2,
+      "email": "contact@eva.pharma",
+      "company_name": "إيفا فارما للأدوية والمستلزمات",
+      "governorate": "الجيزة",
+      "city": "الهرم",
+      "street": "شارع المنصورية الرئيسي",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 3,
+      "email": "sales@amoun.com",
+      "company_name": "شركة أمون للأدوية والصناعات",
+      "governorate": "القاهرة",
+      "city": "مدينة نصر",
+      "street": "المنطقة الحرة الأولى",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 4,
+      "email": "supply@pharco.org",
+      "company_name": "مجموعة فاركو للأدوية الطبية",
+      "governorate": "الإسكندرية",
+      "city": "العامرية",
+      "street": "المنطقة الصناعية الثالثة",
+      "warehouse_id": 3
+    },
+    {
+      "supplier_id": 5,
+      "email": "info@sedico.com",
+      "company_name": "سيديكو للصناعات الدوائية الطبية",
+      "governorate": "الجيزة",
+      "city": "6 أكتوبر",
+      "street": "المنطقة الصناعية الأولى بلوك 5",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 6,
+      "email": "contact@eipico.com.eg",
+      "company_name": "إيبيكو للأدوية الشركة المصرية الدولية",
+      "governorate": "الشرقية",
+      "city": "العاشر من رمضان",
+      "street": "المنطقة الصناعية ب1",
+      "warehouse_id": 30
+    },
+    {
+      "supplier_id": 7,
+      "email": "orders@hikma.eg",
+      "company_name": "شركة الحكمة مصر للأدوية والمحاليل",
+      "governorate": "القاهرة",
+      "city": "التجمع الخامس",
+      "street": "شارع التسعين الشمالي مجمع 3",
+      "warehouse_id": 10
+    },
+    {
+      "supplier_id": 8,
+      "email": "sales@novartis.eg",
+      "company_name": "نوفارتس مصر للأدوية والتجارة العامة",
+      "governorate": "القاهرة",
+      "city": "المعادي",
+      "street": "كورنيش النيل المعادي برج 2",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 9,
+      "email": "info@glaxo.com.eg",
+      "company_name": "جlaكسو سميثكلاين مصر ش.م.م",
+      "governorate": "القاهرة",
+      "city": "مدينة السلام",
+      "street": "طريق بلبيس الصحراوي ك 4",
+      "warehouse_id": 7
+    },
+    {
+      "supplier_id": 10,
+      "email": "contact@sanofi.eg",
+      "company_name": "سانوفي مصر للمستحضرات الطبية",
+      "governorate": "القليوبية",
+      "city": "الزيدية",
+      "street": "طريق القناطر الرئيسي ممر 1",
+      "warehouse_id": 27
+    },
+    {
+      "supplier_id": 11,
+      "email": "supply@marcyrl.com",
+      "company_name": "مارسيرل للأدوية والمستحضرات الطبية",
+      "governorate": "القاهرة",
+      "city": "العبور",
+      "street": "المنطقة الصناعية الأولى أ",
+      "warehouse_id": 7
+    },
+    {
+      "supplier_id": 12,
+      "email": "sales@globalnapi.com",
+      "company_name": "جلوبال نابى للأدوية ش.م.م مصنع",
+      "governorate": "الشرقية",
+      "city": "الزقازيق",
+      "street": "طريق الخانكة الرئيسي ك 12",
+      "warehouse_id": 12
+    },
+    {
+      "supplier_id": 13,
+      "email": "info@multiapharma.com",
+      "company_name": "مالتي أيبكس فارما للأدوية المركزة",
+      "governorate": "الجيزة",
+      "city": "6 أكتوبر",
+      "street": "المنطقة الصناعية الرابعة بلوك 9",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 14,
+      "email": "contact@futurepharma.eg",
+      "company_name": "فيوتشر فارما لصناعة الأدوية المتطورة",
+      "governorate": "الشرقية",
+      "city": "العاشر من رمضان",
+      "street": "المنطقة الصناعية أ3",
+      "warehouse_id": 30
+    },
+    {
+      "supplier_id": 15,
+      "email": "supply@apexpharma.com",
+      "company_name": "أيبكس فارما لتجارة وتصنيع الدواء",
+      "governorate": "القاهرة",
+      "city": "التجمع الثالث",
+      "street": "المنطقة الصناعية التجمع بلوك 2",
+      "warehouse_id": 10
+    },
+    {
+      "supplier_id": 16,
+      "email": "sales@adwia.com",
+      "company_name": "شركة أدويـا للأدوية والمستحضرات",
+      "governorate": "القليوبية",
+      "city": "العبور",
+      "street": "المنطقة الصناعية الامتداد الشمالي",
+      "warehouse_id": 7
+    },
+    {
+      "supplier_id": 17,
+      "email": "info@pharaonia.com",
+      "company_name": "الفرعونية للأدوية فارو فارما مصنع",
+      "governorate": "الإسكندرية",
+      "city": "برج العرب الجديدة",
+      "street": "المنطقة الصناعية الثالثة بلوك 4",
+      "warehouse_id": 42
+    },
+    {
+      "supplier_id": 18,
+      "email": "contact@chemipharm.com",
+      "company_name": "كيميفارم للمنتجات الدوائية الحيوية",
+      "governorate": "الجيزة",
+      "city": "6 أكتوبر",
+      "street": "المنطقة الصناعية الثانية ممر 8",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 19,
+      "email": "supply@medizen.com",
+      "company_name": "مديزين لتصنيع وتعبئة الدواء المساعد",
+      "governorate": "الإسكندرية",
+      "city": "برج العرب الجديدة",
+      "street": "المنطقة الصناعية الرابعة بلوك 11",
+      "warehouse_id": 42
+    },
+    {
+      "supplier_id": 20,
+      "email": "sales@copad.com.eg",
+      "company_name": "كوباد فارما للصناعات الدوائية الطبية",
+      "governorate": "القاهرة",
+      "city": "الاميرية",
+      "street": "شارع السواح القديم مجمع 5",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 21,
+      "email": "info@alandalous.org",
+      "company_name": "الأندلس الطبية لصناعة وتجارة الأدوية",
+      "governorate": "الجيزة",
+      "city": "6 أكتوبر",
+      "street": "المنطقة الصناعية الامتداد الأول",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 22,
+      "email": "contact@servier.com.eg",
+      "company_name": "سيرفيه مصر الطبية للأدوية التخصصية",
+      "governorate": "القاهرة",
+      "city": "مصر الجديدة",
+      "street": "شارع الميرغني الفرعي برج 4",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 23,
+      "email": "supply@bayer.eg",
+      "company_name": "باير مصر للمنتجات الصيدلانية الكبرى",
+      "governorate": "القاهرة",
+      "city": "التجمع الخامس",
+      "street": "شارع الـ 90 الجنوبي مجمع السلاب",
+      "warehouse_id": 10
+    },
+    {
+      "supplier_id": 24,
+      "email": "sales@astrazeneca.eg",
+      "company_name": "أسترازينيكا مصر لتوزيع المستحضرات",
+      "governorate": "القاهرة",
+      "city": "المعادي",
+      "street": "طريق النصر المعادي برج أ",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 25,
+      "email": "info@roche.eg",
+      "company_name": "روش مصر للأدوية والمستلزمات الطبية",
+      "governorate": "القاهرة",
+      "city": "التجمع الخامس",
+      "street": "مجمع المستثمرين الشمالي بلوك 1",
+      "warehouse_id": 10
+    },
+    {
+      "supplier_id": 26,
+      "email": "contact@merck.eg",
+      "company_name": "ميرك مصر الطبية المحدودة التوزيع",
+      "governorate": "الجيزة",
+      "city": "الدقي",
+      "street": "شارع البطل أحمد عبد العزيز",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 27,
+      "email": "supply@lilly.eg",
+      "company_name": "إيلي ليلي مصر للمستحضرات الطبية ش.م.م",
+      "governorate": "القاهرة",
+      "city": "مصر الجديدة",
+      "street": "شارع العروبة الكبرى برج التوفيق",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 28,
+      "email": "sales@abbott.eg",
+      "company_name": "أبوت معامل مصر الطبية المستوردة للطلب",
+      "governorate": "القاهرة",
+      "city": "مصر الجديدة",
+      "street": "شارع النزهة الكبير مجمع الرقابة",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 29,
+      "email": "info@msd.com.eg",
+      "company_name": "ام اس دي مصر للأدوية واللقاحات البشرية",
+      "governorate": "القاهرة",
+      "city": "التجمع الخامس",
+      "street": "شارع المطار القديم التجمع الثالث",
+      "warehouse_id": 10
+    },
+    {
+      "supplier_id": 30,
+      "email": "contact@takeda.eg",
+      "company_name": "تاكيدا مصر للمستحضرات الصيدلانية لتوزيع",
+      "governorate": "القاهرة",
+      "city": "المعادي",
+      "street": "شارع اللاسلكي المعادي برج 5",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 31,
+      "email": "supply@boehringer.eg",
+      "company_name": "بوهرنجر إنجلهايم مصر الطبية ش.م.م",
+      "governorate": "القاهرة",
+      "city": "مصر الجديدة",
+      "street": "شارع النزهة الفرعي خلف الرقابة",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 32,
+      "email": "sales@leo.eg",
+      "company_name": "ليو فارما مصر لأدوية الجلدية المحدودة",
+      "governorate": "الجيزة",
+      "city": "المهندسين",
+      "street": "شارع محي الدين أبو العز برج 9",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 33,
+      "email": "info@lundbeck.eg",
+      "company_name": "لوندبيك مصر لأدوية النفسية والعصبية",
+      "governorate": "القاهرة",
+      "city": "التجمع الخامس",
+      "street": "شارع التسعين الإداري مبنى د",
+      "warehouse_id": 10
+    },
+    {
+      "supplier_id": 34,
+      "email": "contact@biologix.eg",
+      "company_name": "بيولوجيكس مصر للمستحضرات الحيوية النادرة",
+      "governorate": "الجيزة",
+      "city": "المهندسين",
+      "street": "شارع أحمد عرابي المهندسين برج أ",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 35,
+      "email": "supply@augustapharma.com",
+      "company_name": "أوجستا فارما للصناعات الدوائية المصنع",
+      "governorate": "القليوبية",
+      "city": "العبور",
+      "street": "المنطقة الصناعية البلوك B ممر 2",
+      "warehouse_id": 7
+    },
+    {
+      "supplier_id": 36,
+      "email": "sales@mashpharma.com",
+      "company_name": "ماش بريمير لصناعة الأدوية والتجميل",
+      "governorate": "القاهرة",
+      "city": "بدر",
+      "street": "المنطقة الصناعية الثالثة B بلوك 4",
+      "warehouse_id": 45
+    },
+    {
+      "supplier_id": 37,
+      "email": "info@rameda.com.eg",
+      "company_name": "راميدا للأدوية والمستحضرات الطبية ش.م.م",
+      "governorate": "الجيزة",
+      "city": "6 أكتوبر",
+      "street": "المنطقة الصناعية B4 بلوك 10",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 38,
+      "email": "contact@cid.com.eg",
+      "company_name": "سيد للأدوية شركة تنمية الصناعات الكيماوية",
+      "governorate": "الجيزة",
+      "city": "العمرانية",
+      "street": "شارع الأهرام العمرانية مجمع 1",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 39,
+      "email": "supply@misrpharma.com",
+      "company_name": "مصر للمستحضرات الطبية أقدم المصانع",
+      "governorate": "القاهرة",
+      "city": "المطرية",
+      "street": "شارع المصانع المطرية خلف المحطة",
+      "warehouse_id": 1
+    },
+    {
+      "supplier_id": 40,
+      "email": "sales@arabcaps.com",
+      "company_name": "العربية للجيلاتين والكبسولات الدوائية",
+      "governorate": "الإسكندرية",
+      "city": "برج العرب الجديدة",
+      "street": "المنطقة الصناعية الثانية ممر 3",
+      "warehouse_id": 42
+    },
+    {
+      "supplier_id": 41,
+      "email": "info@alhabibpharma.com",
+      "company_name": "الحبيب فارما للتجارة والاستيراد الطبي",
+      "governorate": "الدقهلية",
+      "city": "المنصورة",
+      "street": "شارع المشاية السفلية أمام النيل",
+      "warehouse_id": 8
+    },
+    {
+      "supplier_id": 42,
+      "email": "contact@pharmed.eg",
+      "company_name": "فارمد مصر لتصنيع أدوية الفيروسات الكبرى",
+      "governorate": "الجيزة",
+      "city": "6 أكتوبر",
+      "street": "المنطقة الصناعية الامتداد الأول بلوك 2",
+      "warehouse_id": 4
+    },
+    {
+      "supplier_id": 43,
+      "email": "supply@atco.com.eg",
+      "company_name": "العربية للتصنيع الدوائي اتكو مصنع الشرقية",
+      "governorate": "الشرقية",
+      "city": "العاشر من رمضان",
+      "street": "المنطقة الصناعية B3 بلوك 8",
+      "warehouse_id": 30
+    },
+    {
+      "supplier_id": 44,
+      "email": "sales@onepharma.eg",
+      "company_name": "وان فارما لتجارة وتوزيع الأدوية المحلى",
+      "governorate": "الغربية",
+      "city": "طنطا",
+      "street": "شارع البحر الرئيسي طنطا أمام المحافظة",
+      "warehouse_id": 2
+    },
+    {
+      "supplier_id": 45,
+      "email": "info@elgorg.com",
+      "company_name": "الجورج لتجارة المستلزمات الطبية والسرنجات",
+      "governorate": "المنوفية",
+      "city": "شبين الكوم",
+      "street": "شارع جمال عبد الناصر شبين ك 3",
+      "warehouse_id": 25
+    },
+    {
+      "supplier_id": 46,
+      "email": "contact@deltapharma.com",
+      "company_name": "دلتا فارما لصناعة الأدوية والمحاليل الطبية",
+      "governorate": "المنوفية",
+      "city": "مدينة السادات",
+      "street": "المنطقة الصناعية الأولى سادات بلوك 7",
+      "warehouse_id": 31
+    },
+    {
+      "supplier_id": 47,
+      "email": "supply@sigmapharma.com",
+      "company_name": "سيجما للصناعات الدوائية ش.م.م مصانع السادات",
+      "governorate": "المنوفية",
+      "city": "مدينة السادات",
+      "street": "المنطقة الصناعية الأولى B بلوك 12",
+      "warehouse_id": 31
+    },
+    {
+      "supplier_id": 48,
+      "email": "sales@minapharm.com",
+      "company_name": "مينافارم للأدوية والصناعات الكيماوية مصنع",
+      "governorate": "الشرقية",
+      "city": "العاشر من رمضان",
+      "street": "المنطقة الصناعية A2 بلوك 15",
+      "warehouse_id": 30
+    },
+    {
+      "supplier_id": 49,
+      "email": "info@primapharma.eg",
+      "company_name": "بريما فارما لصناعة المحاليل الطبية الدقيقة",
+      "governorate": "القاهرة",
+      "city": "بدر",
+      "street": "المنطقة الصناعية المركزية الأولى بلوك 1",
+      "warehouse_id": 45
+    },
+    {
+      "supplier_id": 50,
+      "email": "contact@egypharma.org",
+      "company_name": "إيجى فارما لتجارة الأدوية والمستلزمات",
+      "governorate": "الإسكندرية",
+      "city": "وسط المدينة",
+      "street": "شارع صفية زغلول أمام المسرح",
+      "warehouse_id": 3
+    }
+  ],
+  "supplierPhones": [
+    {
+      "supplier_id": 1,
+      "phone": "0224849300"
+    },
+    {
+      "supplier_id": 1,
+      "phone": "0224849301"
+    },
+    {
+      "supplier_id": 2,
+      "phone": "0233857200"
+    },
+    {
+      "supplier_id": 2,
+      "phone": "0233857201"
+    },
+    {
+      "supplier_id": 3,
+      "phone": "0222634500"
+    },
+    {
+      "supplier_id": 3,
+      "phone": "0222634502"
+    },
+    {
+      "supplier_id": 4,
+      "phone": "034700500"
+    },
+    {
+      "supplier_id": 4,
+      "phone": "034700501"
+    },
+    {
+      "supplier_id": 5,
+      "phone": "0238330444"
+    },
+    {
+      "supplier_id": 5,
+      "phone": "0238330445"
+    },
+    {
+      "supplier_id": 6,
+      "phone": "015363322"
+    },
+    {
+      "supplier_id": 6,
+      "phone": "015363323"
+    },
+    {
+      "supplier_id": 7,
+      "phone": "0225372100"
+    },
+    {
+      "supplier_id": 7,
+      "phone": "0225372105"
+    },
+    {
+      "supplier_id": 8,
+      "phone": "0225875000"
+    },
+    {
+      "supplier_id": 8,
+      "phone": "0225875001"
+    },
+    {
+      "supplier_id": 9,
+      "phone": "0226567100"
+    },
+    {
+      "supplier_id": 9,
+      "phone": "0226567102"
+    },
+    {
+      "supplier_id": 10,
+      "phone": "0244621000"
+    },
+    {
+      "supplier_id": 10,
+      "phone": "0244621001"
+    },
+    {
+      "supplier_id": 11,
+      "phone": "0244891200"
+    },
+    {
+      "supplier_id": 11,
+      "phone": "0244891204"
+    },
+    {
+      "supplier_id": 12,
+      "phone": "0244654300"
+    },
+    {
+      "supplier_id": 12,
+      "phone": "0244654301"
+    },
+    {
+      "supplier_id": 13,
+      "phone": "0238347100"
+    },
+    {
+      "supplier_id": 13,
+      "phone": "0238347102"
+    },
+    {
+      "supplier_id": 14,
+      "phone": "015384455"
+    },
+    {
+      "supplier_id": 14,
+      "phone": "015384456"
+    },
+    {
+      "supplier_id": 15,
+      "phone": "0226173000"
+    },
+    {
+      "supplier_id": 15,
+      "phone": "0226173001"
+    },
+    {
+      "supplier_id": 16,
+      "phone": "0244894400"
+    },
+    {
+      "supplier_id": 16,
+      "phone": "0244894402"
+    },
+    {
+      "supplier_id": 17,
+      "phone": "034592000"
+    },
+    {
+      "supplier_id": 17,
+      "phone": "034592001"
+    },
+    {
+      "supplier_id": 18,
+      "phone": "0238202500"
+    },
+    {
+      "supplier_id": 18,
+      "phone": "0238202503"
+    },
+    {
+      "supplier_id": 19,
+      "phone": "034593600"
+    },
+    {
+      "supplier_id": 19,
+      "phone": "034593602"
+    },
+    {
+      "supplier_id": 20,
+      "phone": "0222849900"
+    },
+    {
+      "supplier_id": 20,
+      "phone": "0222849901"
+    },
+    {
+      "supplier_id": 21,
+      "phone": "0238321000"
+    },
+    {
+      "supplier_id": 21,
+      "phone": "0238321005"
+    },
+    {
+      "supplier_id": 22,
+      "phone": "0224567200"
+    },
+    {
+      "supplier_id": 22,
+      "phone": "0224567201"
+    },
+    {
+      "supplier_id": 23,
+      "phone": "0227684000"
+    },
+    {
+      "supplier_id": 23,
+      "phone": "0227684002"
+    },
+    {
+      "supplier_id": 24,
+      "phone": "0225298100"
+    },
+    {
+      "supplier_id": 24,
+      "phone": "0225298101"
+    },
+    {
+      "supplier_id": 25,
+      "phone": "0228147000"
+    },
+    {
+      "supplier_id": 25,
+      "phone": "0228147003"
+    },
+    {
+      "supplier_id": 26,
+      "phone": "0237494000"
+    },
+    {
+      "supplier_id": 26,
+      "phone": "0237494001"
+    },
+    {
+      "supplier_id": 27,
+      "phone": "0224186000"
+    },
+    {
+      "supplier_id": 27,
+      "phone": "0224186002"
+    },
+    {
+      "supplier_id": 28,
+      "phone": "0222904000"
+    },
+    {
+      "supplier_id": 28,
+      "phone": "0222904001"
+    },
+    {
+      "supplier_id": 29,
+      "phone": "0226149000"
+    },
+    {
+      "supplier_id": 29,
+      "phone": "0226149004"
+    },
+    {
+      "supplier_id": 30,
+      "phone": "0225164000"
+    },
+    {
+      "supplier_id": 30,
+      "phone": "0225164001"
+    },
+    {
+      "supplier_id": 31,
+      "phone": "0224143000"
+    },
+    {
+      "supplier_id": 31,
+      "phone": "0224143002"
+    },
+    {
+      "supplier_id": 32,
+      "phone": "0237615000"
+    },
+    {
+      "supplier_id": 32,
+      "phone": "0237615001"
+    },
+    {
+      "supplier_id": 33,
+      "phone": "0225227000"
+    },
+    {
+      "supplier_id": 33,
+      "phone": "0225227005"
+    },
+    {
+      "supplier_id": 34,
+      "phone": "0233036000"
+    },
+    {
+      "supplier_id": 34,
+      "phone": "0233036001"
+    },
+    {
+      "supplier_id": 35,
+      "phone": "0244892200"
+    },
+    {
+      "supplier_id": 35,
+      "phone": "0244892203"
+    },
+    {
+      "supplier_id": 36,
+      "phone": "0228642000"
+    },
+    {
+      "supplier_id": 36,
+      "phone": "0228642001"
+    },
+    {
+      "supplier_id": 37,
+      "phone": "0238202700"
+    },
+    {
+      "supplier_id": 37,
+      "phone": "0238202702"
+    },
+    {
+      "supplier_id": 38,
+      "phone": "0235851000"
+    },
+    {
+      "supplier_id": 38,
+      "phone": "0235851001"
+    },
+    {
+      "supplier_id": 39,
+      "phone": "0222583000"
+    },
+    {
+      "supplier_id": 39,
+      "phone": "0222583002"
+    },
+    {
+      "supplier_id": 40,
+      "phone": "034591100"
+    },
+    {
+      "supplier_id": 40,
+      "phone": "034591101"
+    },
+    {
+      "supplier_id": 41,
+      "phone": "0502234000"
+    },
+    {
+      "supplier_id": 41,
+      "phone": "0502234003"
+    },
+    {
+      "supplier_id": 42,
+      "phone": "0238314000"
+    },
+    {
+      "supplier_id": 42,
+      "phone": "0238314001"
+    },
+    {
+      "supplier_id": 43,
+      "phone": "015372299"
+    },
+    {
+      "supplier_id": 43,
+      "phone": "015372298"
+    },
+    {
+      "supplier_id": 44,
+      "phone": "0403348000"
+    },
+    {
+      "supplier_id": 44,
+      "phone": "0403348001"
+    },
+    {
+      "supplier_id": 45,
+      "phone": "0482226000"
+    },
+    {
+      "supplier_id": 45,
+      "phone": "0482226002"
+    },
+    {
+      "supplier_id": 46,
+      "phone": "0482601000"
+    },
+    {
+      "supplier_id": 46,
+      "phone": "0482601001"
+    },
+    {
+      "supplier_id": 47,
+      "phone": "0482603300"
+    },
+    {
+      "supplier_id": 47,
+      "phone": "0482603305"
+    },
+    {
+      "supplier_id": 48,
+      "phone": "015361400"
+    },
+    {
+      "supplier_id": 48,
+      "phone": "015361401"
+    },
+    {
+      "supplier_id": 49,
+      "phone": "0228607000"
+    },
+    {
+      "supplier_id": 49,
+      "phone": "0228607002"
+    },
+    {
+      "supplier_id": 50,
+      "phone": "034872000"
+    },
+    {
+      "supplier_id": 50,
+      "phone": "034872001"
+    }
+  ],
+  "medicines": [
+    {
+      "medicine_id": 1,
+      "medicine_name": "Panadol Advance 500mg",
+      "medicine_type": "Analgesic",
+      "expiry_date": "2028-12-01",
+      "price": 35,
+      "supplier_id": 1,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 2,
+      "medicine_name": "Augmentin 1g Tablets",
+      "medicine_type": "Antibiotic",
+      "expiry_date": "2027-06-15",
+      "price": 120,
+      "supplier_id": 9,
+      "warehouse_id": 7
+    },
+    {
+      "medicine_id": 3,
+      "medicine_name": "Cataflam 50mg",
+      "medicine_type": "Anti-inflammatory",
+      "expiry_date": "2028-03-20",
+      "price": 55,
+      "supplier_id": 8,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 4,
+      "medicine_name": "Concor 5mg Plus",
+      "medicine_type": "Antihypertensive",
+      "expiry_date": "2029-01-10",
+      "price": 48.5,
+      "supplier_id": 26,
+      "warehouse_id": 4
+    },
+    {
+      "medicine_id": 5,
+      "medicine_name": "Antinal Capsules",
+      "medicine_type": "Antidiarrheal",
+      "expiry_date": "2027-11-30",
+      "price": 32,
+      "supplier_id": 2,
+      "warehouse_id": 4
+    },
+    {
+      "medicine_id": 6,
+      "medicine_name": "Amoxicillin 500mg",
+      "medicine_type": "Antibiotic",
+      "expiry_date": "2027-09-14",
+      "price": 28,
+      "supplier_id": 6,
+      "warehouse_id": 30
+    },
+    {
+      "medicine_id": 7,
+      "medicine_name": "Brufen 400mg",
+      "medicine_type": "Analgesic",
+      "expiry_date": "2028-08-25",
+      "price": 42,
+      "supplier_id": 4,
+      "warehouse_id": 3
+    },
+    {
+      "medicine_id": 8,
+      "medicine_name": "Lipitor 20mg",
+      "medicine_type": "Cholesterol",
+      "expiry_date": "2029-05-12",
+      "price": 210,
+      "supplier_id": 1,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 9,
+      "medicine_name": "Glucophage 1000mg",
+      "medicine_type": "Antidiabetic",
+      "expiry_date": "2028-10-05",
+      "price": 60,
+      "supplier_id": 22,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 10,
+      "medicine_name": "Zyrtec 10mg Tablets",
+      "medicine_type": "Antihistamine",
+      "expiry_date": "2028-04-18",
+      "price": 45,
+      "supplier_id": 7,
+      "warehouse_id": 10
+    },
+    {
+      "medicine_id": 11,
+      "medicine_name": "Voltaren 100mg Supp",
+      "medicine_type": "Analgesic",
+      "expiry_date": "2027-12-22",
+      "price": 38,
+      "supplier_id": 8,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 12,
+      "medicine_name": "Excedrin Tablets",
+      "medicine_type": "Migraine",
+      "expiry_date": "2028-07-07",
+      "price": 65,
+      "supplier_id": 9,
+      "warehouse_id": 7
+    },
+    {
+      "medicine_id": 13,
+      "medicine_name": "Controloc 40mg",
+      "medicine_type": "Antiulcer",
+      "expiry_date": "2029-03-14",
+      "price": 112,
+      "supplier_id": 31,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 14,
+      "medicine_name": "Ventolin Inhaler",
+      "medicine_type": "Bronchodilator",
+      "expiry_date": "2027-10-19",
+      "price": 40,
+      "supplier_id": 9,
+      "warehouse_id": 7
+    },
+    {
+      "medicine_id": 15,
+      "medicine_name": "Gonal-F 75 IU",
+      "medicine_type": "Hormone",
+      "expiry_date": "2027-04-01",
+      "price": 750,
+      "supplier_id": 26,
+      "warehouse_id": 4
+    },
+    {
+      "medicine_id": 16,
+      "medicine_name": "Ketofan 50mg Caps",
+      "medicine_type": "Analgesic",
+      "expiry_date": "2028-02-28",
+      "price": 22,
+      "supplier_id": 2,
+      "warehouse_id": 4
+    },
+    {
+      "medicine_id": 17,
+      "medicine_name": "Clexane 40mg Inj",
+      "medicine_type": "Anticoagulant",
+      "expiry_date": "2027-08-11",
+      "price": 140,
+      "supplier_id": 10,
+      "warehouse_id": 27
+    },
+    {
+      "medicine_id": 18,
+      "medicine_name": "Plavix 75mg",
+      "medicine_type": "Antiplatelet",
+      "expiry_date": "2029-02-20",
+      "price": 280,
+      "supplier_id": 10,
+      "warehouse_id": 27
+    },
+    {
+      "medicine_id": 19,
+      "medicine_name": "Daflon 500mg",
+      "medicine_type": "Vasoprotective",
+      "expiry_date": "2029-06-30",
+      "price": 94,
+      "supplier_id": 22,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 20,
+      "medicine_name": "Euthyrox 50mcg",
+      "medicine_type": "Thyroid Hormone",
+      "expiry_date": "2029-04-15",
+      "price": 40,
+      "supplier_id": 26,
+      "warehouse_id": 4
+    },
+    {
+      "medicine_id": 21,
+      "medicine_name": "Nexium 40mg",
+      "medicine_type": "Antiulcer",
+      "expiry_date": "2029-08-12",
+      "price": 175,
+      "supplier_id": 24,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 22,
+      "medicine_name": "Janumet 50/1000mg",
+      "medicine_type": "Antidiabetic",
+      "expiry_date": "2028-11-01",
+      "price": 320,
+      "supplier_id": 29,
+      "warehouse_id": 10
+    },
+    {
+      "medicine_id": 23,
+      "medicine_name": "Diamicron 60mg MR",
+      "medicine_type": "Antidiabetic",
+      "expiry_date": "2028-09-18",
+      "price": 52,
+      "supplier_id": 22,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 24,
+      "medicine_name": "Lasix 40mg",
+      "medicine_type": "Diuretic",
+      "expiry_date": "2027-05-14",
+      "price": 20,
+      "supplier_id": 10,
+      "warehouse_id": 27
+    },
+    {
+      "medicine_id": 25,
+      "medicine_name": "Atacand 16mg",
+      "medicine_type": "Antihypertensive",
+      "expiry_date": "2029-03-01",
+      "price": 90,
+      "supplier_id": 24,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 26,
+      "medicine_name": "Xarelto 20mg",
+      "medicine_type": "Anticoagulant",
+      "expiry_date": "2028-06-25",
+      "price": 450,
+      "supplier_id": 23,
+      "warehouse_id": 10
+    },
+    {
+      "medicine_id": 27,
+      "medicine_name": "Claritin 10mg",
+      "medicine_type": "Antihistamine",
+      "expiry_date": "2028-02-14",
+      "price": 58,
+      "supplier_id": 29,
+      "warehouse_id": 10
+    },
+    {
+      "medicine_id": 28,
+      "medicine_name": "Flixonase Nasal Spray",
+      "medicine_type": "Corticosteroid",
+      "expiry_date": "2027-07-22",
+      "price": 80,
+      "supplier_id": 9,
+      "warehouse_id": 7
+    },
+    {
+      "medicine_id": 29,
+      "medicine_name": "Proscar 5mg",
+      "medicine_type": "Prostate Treatment",
+      "expiry_date": "2028-12-19",
+      "price": 160,
+      "supplier_id": 29,
+      "warehouse_id": 10
+    },
+    {
+      "medicine_id": 30,
+      "medicine_name": "Crestor 10mg",
+      "medicine_type": "Cholesterol",
+      "expiry_date": "2029-07-11",
+      "price": 150,
+      "supplier_id": 24,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 31,
+      "medicine_name": "Telfast 180mg",
+      "medicine_type": "Antihistamine",
+      "expiry_date": "2028-10-30",
+      "price": 85,
+      "supplier_id": 10,
+      "warehouse_id": 27
+    },
+    {
+      "medicine_id": 32,
+      "medicine_name": "Fastum Gel",
+      "medicine_type": "Topical Analgesic",
+      "expiry_date": "2027-09-05",
+      "price": 36,
+      "supplier_id": 20,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 33,
+      "medicine_name": "Adryamycin 50mg Inj",
+      "medicine_type": "Antineoplastic",
+      "expiry_date": "2027-03-12",
+      "price": 400,
+      "supplier_id": 6,
+      "warehouse_id": 30
+    },
+    {
+      "medicine_id": 34,
+      "medicine_name": "Mucosolvan Syrup",
+      "medicine_type": "Mucolytic",
+      "expiry_date": "2027-08-08",
+      "price": 25,
+      "supplier_id": 31,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 35,
+      "medicine_name": "Duspatalin 200mg",
+      "medicine_type": "Antispasmodic",
+      "expiry_date": "2028-11-20",
+      "price": 76,
+      "supplier_id": 28,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 36,
+      "medicine_name": "Gastrozole 20mg",
+      "medicine_type": "Antiulcer",
+      "expiry_date": "2028-04-14",
+      "price": 42,
+      "supplier_id": 5,
+      "warehouse_id": 4
+    },
+    {
+      "medicine_id": 37,
+      "medicine_name": "Ciprofar 500mg",
+      "medicine_type": "Antibiotic",
+      "expiry_date": "2027-10-01",
+      "price": 39,
+      "supplier_id": 13,
+      "warehouse_id": 4
+    },
+    {
+      "medicine_id": 38,
+      "medicine_name": "Betaserc 24mg",
+      "medicine_type": "Antivertigo",
+      "expiry_date": "2028-06-15",
+      "price": 88.25,
+      "supplier_id": 28,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 39,
+      "medicine_name": "Tamsulin 0.4mg Caps",
+      "medicine_type": "Prostate Treatment",
+      "expiry_date": "2028-09-09",
+      "price": 70,
+      "supplier_id": 11,
+      "warehouse_id": 7
+    },
+    {
+      "medicine_id": 40,
+      "medicine_name": "Capoten 25mg",
+      "medicine_type": "Antihypertensive",
+      "expiry_date": "2027-04-20",
+      "price": 26,
+      "supplier_id": 3,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 41,
+      "medicine_name": "Zyloric 100mg",
+      "medicine_type": "Antigout",
+      "expiry_date": "2028-08-11",
+      "price": 34,
+      "supplier_id": 9,
+      "warehouse_id": 7
+    },
+    {
+      "medicine_id": 42,
+      "medicine_name": "Motilium Tablets",
+      "medicine_type": "Antiemetic",
+      "expiry_date": "2028-01-25",
+      "price": 49,
+      "supplier_id": 2,
+      "warehouse_id": 4
+    },
+    {
+      "medicine_id": 43,
+      "medicine_name": "Strepsils Lozenges",
+      "medicine_type": "Throat Soothing",
+      "expiry_date": "2027-12-30",
+      "price": 95,
+      "supplier_id": 28,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 44,
+      "medicine_name": "Otrivin 0.1% Drops",
+      "medicine_type": "Nasal Decongestant",
+      "expiry_date": "2027-03-24",
+      "price": 22,
+      "supplier_id": 8,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 45,
+      "medicine_name": "Neurobion Ampoules",
+      "medicine_type": "Vitamin B Complex",
+      "expiry_date": "2029-02-14",
+      "price": 45,
+      "supplier_id": 26,
+      "warehouse_id": 4
+    },
+    {
+      "medicine_id": 46,
+      "medicine_name": "Calcitona Nasal Spray",
+      "medicine_type": "Calcium Regulator",
+      "expiry_date": "2027-06-01",
+      "price": 230,
+      "supplier_id": 12,
+      "warehouse_id": 12
+    },
+    {
+      "medicine_id": 47,
+      "medicine_name": "Rowatinex Caps",
+      "medicine_type": "Urinary Tract",
+      "expiry_date": "2028-05-19",
+      "price": 42,
+      "supplier_id": 3,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 48,
+      "medicine_name": "Ospamox 500mg",
+      "medicine_type": "Antibiotic",
+      "expiry_date": "2027-10-10",
+      "price": 31.5,
+      "supplier_id": 8,
+      "warehouse_id": 1
+    },
+    {
+      "medicine_id": 49,
+      "medicine_name": "Davercin Gel",
+      "medicine_type": "Acne Treatment",
+      "expiry_date": "2027-08-20",
+      "price": 29,
+      "supplier_id": 16,
+      "warehouse_id": 7
+    },
+    {
+      "medicine_id": 50,
+      "medicine_name": "Gliclazide 80mg",
+      "medicine_type": "Antidiabetic",
+      "expiry_date": "2028-11-15",
+      "price": 24,
+      "supplier_id": 38,
+      "warehouse_id": 4
+    }
+  ],
+  "customers": [
+    {
+      "customer_id": 1,
+      "street": "شارع عباس العقاد رئيسي",
+      "city": "مدينة نصر",
+      "governorate": "القاهرة",
+      "loyalty_points": 150,
+      "phone": "01012345678",
+      "customer_name": "أحمد محمد علي زكي"
+    },
+    {
+      "customer_id": 2,
+      "street": "شارع مصدق أمام البريد",
+      "city": "الدقي",
+      "governorate": "الجيزة",
+      "loyalty_points": 320,
+      "phone": "01122334455",
+      "customer_name": "سارة مصطفى حسن عبد الله"
+    },
+    {
+      "customer_id": 3,
+      "street": "شارع ألبرت الأول برج السلام",
+      "city": "سموحة",
+      "governorate": "الإسكندرية",
+      "loyalty_points": 75,
+      "phone": "01233445566",
+      "customer_name": "محمد عبد الرحمن محمود شاكر"
+    },
+    {
+      "customer_id": 4,
+      "street": "شارع سعيد بجوار الكنيسة",
+      "city": "طنطا",
+      "governorate": "الغربية",
+      "loyalty_points": 0,
+      "phone": "01555667788",
+      "customer_name": "فاطمة إبراهيم خليل السيد"
+    },
+    {
+      "customer_id": 5,
+      "street": "شارع الميرغني خلف الاستاد",
+      "city": "مصر الجديدة",
+      "governorate": "القاهرة",
+      "loyalty_points": 450,
+      "phone": "01099887766",
+      "customer_name": "عمر شريف بدوي الرشيدي"
+    },
+    {
+      "customer_id": 6,
+      "street": "شارع جامعة الدول العربية",
+      "city": "المهندسين",
+      "governorate": "الجيزة",
+      "loyalty_points": 120,
+      "phone": "01144556677",
+      "customer_name": "منى أحمد فتحي الشاذلي"
+    },
+    {
+      "customer_id": 7,
+      "street": "شارع جمال عبد الناصر رئيسي",
+      "city": "المندرة",
+      "governorate": "الإسكندرية",
+      "loyalty_points": 90,
+      "phone": "01288776655",
+      "customer_name": "خالد محمود عثمان الجيار"
+    },
+    {
+      "customer_id": 8,
+      "street": "شارع كلية التجارة خلف المحافظة",
+      "city": "بنها",
+      "governorate": "القليوبية",
+      "loyalty_points": 210,
+      "phone": "01066554433",
+      "customer_name": "رشا سعيد يوسف منصور"
+    },
+    {
+      "customer_id": 9,
+      "street": "شارع طلبة عويضة أمام السنترال",
+      "city": "الزقازيق",
+      "governorate": "الشرقية",
+      "loyalty_points": 55,
+      "phone": "01111223344",
+      "customer_name": "محمود علي النجار الشريف"
+    },
+    {
+      "customer_id": 10,
+      "street": "شارع جيهان أمام الجامعة",
+      "city": "المنصورة",
+      "governorate": "الدقهلية",
+      "loyalty_points": 180,
+      "phone": "01222334455",
+      "customer_name": "دينا حسين صبري الهواري"
+    },
+    {
+      "customer_id": 11,
+      "street": "شارع الاستاد مجمع المحاكم",
+      "city": "شبين الكوم",
+      "governorate": "المنوفية",
+      "loyalty_points": 300,
+      "phone": "01544332211",
+      "customer_name": "كريم هاني سلامة النمس"
+    },
+    {
+      "customer_id": 12,
+      "street": "شارع الروضة خلف الكوبري",
+      "city": "دمنهور",
+      "governorate": "البحيرة",
+      "loyalty_points": 25,
+      "phone": "01022446688",
+      "customer_name": "مروة نبيل زكي السعدني"
+    },
+    {
+      "customer_id": 13,
+      "street": "شارع نبوي المهندس رئيسي",
+      "city": "كفر الشيخ",
+      "governorate": "كفر الشيخ",
+      "loyalty_points": 140,
+      "phone": "01155663322",
+      "customer_name": "هيثم سمير غانم قاسم"
+    },
+    {
+      "customer_id": 14,
+      "street": "شارع الجلاء منشية البكري",
+      "city": "المحلة الكبرى",
+      "governorate": "الغربية",
+      "loyalty_points": 410,
+      "phone": "01200998877",
+      "customer_name": "شيماء فاروق قاسم زهران"
+    },
+    {
+      "customer_id": 15,
+      "street": "شارع الحرية وسط البلد",
+      "city": "الفيوم",
+      "governorate": "الفيوم",
+      "loyalty_points": 85,
+      "phone": "01077665544",
+      "customer_name": "طارق مرسي عبد الله حازم"
+    },
+    {
+      "customer_id": 16,
+      "street": "شارع الجبالي أمام المحكمة",
+      "city": "بني سويف",
+      "governorate": "بني سويف",
+      "loyalty_points": 190,
+      "phone": "01188990011",
+      "customer_name": "نهى شفيق زاهر الجندي"
+    },
+    {
+      "customer_id": 17,
+      "street": "شارع عدنان المالكي شاهين",
+      "city": "المنيا",
+      "governorate": "المنيا",
+      "loyalty_points": 0,
+      "phone": "01211223344",
+      "customer_name": "يوسف أمجد فوزي البارودي"
+    },
+    {
+      "customer_id": 18,
+      "street": "شارع المحطة بجوار البنك",
+      "city": "سوهاج",
+      "governorate": "سوهاج",
+      "loyalty_points": 610,
+      "phone": "01599887766",
+      "customer_name": "إيمان علاء الدين الصاوي"
+    },
+    {
+      "customer_id": 19,
+      "street": "شارع معبد دندرة كورنيش النيل",
+      "city": "قنا",
+      "governorate": "قنا",
+      "loyalty_points": 135,
+      "phone": "01033445566",
+      "customer_name": "مصطفى كامل الجندي الشافعي"
+    },
+    {
+      "customer_id": 20,
+      "street": "شارع التلفزيون أمام المستشفى",
+      "city": "الأقصر",
+      "governorate": "الأقصر",
+      "loyalty_points": 95,
+      "phone": "01122445566",
+      "customer_name": "علا رفعت الشريف الأبنودي"
+    },
+    {
+      "customer_id": 21,
+      "street": "شارع أبطال التحرير السيل",
+      "city": "أسوان",
+      "governorate": "أسوان",
+      "loyalty_points": 270,
+      "phone": "01277665544",
+      "customer_name": "عمرو وجدي الحكيم طه"
+    },
+    {
+      "customer_id": 22,
+      "street": "شارع الصعيدي مجاورة 2",
+      "city": "دمياط الجديدة",
+      "governorate": "دمياط",
+      "loyalty_points": 35,
+      "phone": "01011335577",
+      "customer_name": "ياسمين مجدي شاكر العشري"
+    },
+    {
+      "customer_id": 23,
+      "street": "شارع أوجيني حي العرب",
+      "city": "بورسعيد",
+      "governorate": "بورسعيد",
+      "loyalty_points": 165,
+      "phone": "01144228866",
+      "customer_name": "شريف مدحت عزمي السيوفي"
+    },
+    {
+      "customer_id": 24,
+      "street": "شارع الشهداء الأربعين",
+      "city": "السويس",
+      "governorate": "السويس",
+      "loyalty_points": 500,
+      "phone": "01255331177",
+      "customer_name": "رانيا ممدوح عبد السلام غريب"
+    },
+    {
+      "customer_id": 25,
+      "street": "شارع السلطان حسين عرايشية",
+      "city": "الإسماعيلية",
+      "governorate": "الإسماعيلية",
+      "loyalty_points": 115,
+      "phone": "01511229988",
+      "customer_name": "حازم أشرف عبد الغني طه"
+    },
+    {
+      "customer_id": 26,
+      "street": "شارع الشيراتون الدهار",
+      "city": "الغردقة",
+      "governorate": "البحر الأحمر",
+      "loyalty_points": 230,
+      "phone": "01088776644",
+      "customer_name": "هدى عبد العزيز طه محروس"
+    },
+    {
+      "customer_id": 27,
+      "street": "طريق السلام خليج نعمة",
+      "city": "شرم الشيخ",
+      "governorate": "جنوب سيناء",
+      "loyalty_points": 40,
+      "phone": "01133557799",
+      "customer_name": "شادي إيهاب سليم الباز"
+    },
+    {
+      "customer_id": 28,
+      "street": "شارع الفاتح الساحلي رئيسي",
+      "city": "العريش",
+      "governorate": "شمال سيناء",
+      "loyalty_points": 185,
+      "phone": "01266442200",
+      "customer_name": "ندى طارق عبد الجواد سعد"
+    },
+    {
+      "customer_id": 29,
+      "street": "شارع الإسكندرية علم الروم",
+      "city": "مرسى مطروح",
+      "governorate": "مطروح",
+      "loyalty_points": 0,
+      "phone": "01522446688",
+      "customer_name": "رامي عصام زهران بهجت"
+    },
+    {
+      "customer_id": 30,
+      "street": "شارع 9 أمام محطة المترو",
+      "city": "المعادي",
+      "governorate": "القاهرة",
+      "loyalty_points": 340,
+      "phone": "01055667799",
+      "customer_name": "مها مسعد الجيار طلعت"
+    },
+    {
+      "customer_id": 31,
+      "street": "شارع رياض خلف الحديقة",
+      "city": "حلوان",
+      "governorate": "القاهرة",
+      "loyalty_points": 70,
+      "phone": "01199775533",
+      "customer_name": "وائل بهجت النمس غانم"
+    },
+    {
+      "customer_id": 32,
+      "street": "شارع نوال كورنيش النيل",
+      "city": "العجوزة",
+      "governorate": "الجيزة",
+      "loyalty_points": 290,
+      "phone": "01211447700",
+      "customer_name": "مروة عبد الجليل السعدني علي"
+    },
+    {
+      "customer_id": 33,
+      "street": "شارع فيصل الرئيسي العشرين",
+      "city": "الهرم",
+      "governorate": "الجيزة",
+      "loyalty_points": 420,
+      "phone": "01500336699",
+      "customer_name": "أمير رأفت نصار خليل"
+    },
+    {
+      "customer_id": 34,
+      "street": "شارع البيطاش الرئيسي",
+      "city": "العجمي",
+      "governorate": "الإسكندرية",
+      "loyalty_points": 15,
+      "phone": "01044668822",
+      "customer_name": "جيهان كمال الشاذلي مصطفى"
+    },
+    {
+      "customer_id": 35,
+      "street": "شارع الإقبال خلف الكلية",
+      "city": "لوران",
+      "governorate": "الإسكندرية",
+      "loyalty_points": 255,
+      "phone": "01166882244",
+      "customer_name": "سامح طلعت الهواري بدوي"
+    },
+    {
+      "customer_id": 36,
+      "street": "شارع النحاس مجمع الكليات",
+      "city": "طنطا",
+      "governorate": "الغربية",
+      "loyalty_points": 130,
+      "phone": "01233669911",
+      "customer_name": "لبنى سعيد عبد النبي فتحي"
+    },
+    {
+      "customer_id": 37,
+      "street": "شارع القومية أمام فلل الجامعة",
+      "city": "الزقازيق",
+      "governorate": "الشرقية",
+      "loyalty_points": 95,
+      "phone": "01544770022",
+      "customer_name": "تامر جلال البارودي يوسف"
+    },
+    {
+      "customer_id": 38,
+      "street": "شارع قناة السويس المشاية",
+      "city": "المنصورة",
+      "governorate": "الدقهلية",
+      "loyalty_points": 380,
+      "phone": "01000112233",
+      "customer_name": "دعاء عبد الفتاح غريب صبري"
+    },
+    {
+      "customer_id": 39,
+      "street": "شارع الروضة القديم ممر 2",
+      "city": "أشمون",
+      "governorate": "المنوفية",
+      "loyalty_points": 60,
+      "phone": "01111559900",
+      "customer_name": "إيهاب ضياء الديب سلامة"
+    },
+    {
+      "customer_id": 40,
+      "street": "شارع بورسعيد الفرعي مجمع 1",
+      "city": "كفر الدوار",
+      "governorate": "البحيرة",
+      "loyalty_points": 215,
+      "phone": "01222660044",
+      "customer_name": "نرمين عادل الصاوي نبيل"
+    },
+    {
+      "customer_id": 41,
+      "street": "شارع الشركات أمام السكة الحديد",
+      "city": "دسوق",
+      "governorate": "كفر الشيخ",
+      "loyalty_points": 110,
+      "phone": "01555113377",
+      "customer_name": "عادل رمزي الشافعي سمير"
+    },
+    {
+      "customer_id": 42,
+      "street": "شارع 101 خلف الفنار",
+      "city": "راس البر",
+      "governorate": "دمياط",
+      "loyalty_points": 480,
+      "phone": "01022338899",
+      "customer_name": "ميرفت رفعت الأبنودي فوزي"
+    },
+    {
+      "customer_id": 43,
+      "street": "شارع الشعراوي مجمع الكليات",
+      "city": "بورفؤاد",
+      "governorate": "بورسعيد",
+      "loyalty_points": 5,
+      "phone": "01133449988",
+      "customer_name": "أمجد رأفت السلاب عثمان"
+    },
+    {
+      "customer_id": 44,
+      "street": "شارع الشاطئ خلف الجمارك",
+      "city": "بورتوفيق",
+      "governorate": "السويس",
+      "loyalty_points": 170,
+      "phone": "01244550011",
+      "customer_name": "سحر أنور العشري سعيد"
+    },
+    {
+      "customer_id": 45,
+      "street": "شارع البلاجات الرئيسي مجمع 4",
+      "city": "فايد",
+      "governorate": "الإسماعيلية",
+      "loyalty_points": 360,
+      "phone": "01566771122",
+      "customer_name": "حاتم عز الدين الشريف كامل"
+    },
+    {
+      "customer_id": 46,
+      "street": "شارع بورسعيد السنورسي الساحة",
+      "city": "سنورس",
+      "governorate": "الفيوم",
+      "loyalty_points": 125,
+      "phone": "01077882233",
+      "customer_name": "منى صابر السيوفي رفعت"
+    },
+    {
+      "customer_id": 47,
+      "street": "شارع أحمد عرابي ممر المحطة",
+      "city": "الواسطى",
+      "governorate": "بني سويف",
+      "loyalty_points": 80,
+      "phone": "01188993344",
+      "customer_name": "سيد محروس الهواري وجدي"
+    },
+    {
+      "customer_id": 48,
+      "street": "شارع المجيدي أمام البنك الأهلي",
+      "city": "ملوي",
+      "governorate": "المنيا",
+      "loyalty_points": 245,
+      "phone": "01299004455",
+      "customer_name": "هناء عبد الله القاضي مجدي"
+    },
+    {
+      "customer_id": 49,
+      "street": "شارع الثورة ميدان الساعة",
+      "city": "طهطا",
+      "governorate": "سوهاج",
+      "loyalty_points": 400,
+      "phone": "01500115566",
+      "customer_name": "توفيق عبد الحي سليم مدحت"
+    },
+    {
+      "customer_id": 50,
+      "street": "شارع 23 يوليو خلف السنترال",
+      "city": "نجع حمادي",
+      "governorate": "قنا",
+      "loyalty_points": 50,
+      "phone": "01033221100",
+      "customer_name": "نجلاء سعد الباز ممدوح"
+    }
+  ],
+  "employees": [
+    {
+      "employee_id": 1,
+      "employee_name": "محمود رأفت علي",
+      "national_id": "29501010101234",
+      "hire_date": "2015-01-15",
+      "phone": "01011112222",
+      "job_title": "مدير فرع",
+      "salary": 15000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 2,
+      "employee_name": "محمد أحمد حسن",
+      "national_id": "29602020202345",
+      "hire_date": "2016-03-20",
+      "phone": "01122223333",
+      "job_title": "صيدلي أول",
+      "salary": 12000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 3,
+      "employee_name": "عبد الرحمن محمد",
+      "national_id": "29703030303456",
+      "hire_date": "2017-06-10",
+      "phone": "01233334444",
+      "job_title": "صيدلي ثان",
+      "salary": 9500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 4,
+      "employee_name": "مصطفى كمال السيد",
+      "national_id": "29804040404567",
+      "hire_date": "2018-09-01",
+      "phone": "01544445555",
+      "job_title": "مساعد صيدلي",
+      "salary": 7000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 5,
+      "employee_name": "أحمد شريف بدوي",
+      "national_id": "29905050505678",
+      "hire_date": "2019-11-15",
+      "phone": "01055556666",
+      "job_title": "كاشير رئيسي",
+      "salary": 6500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 6,
+      "employee_name": "منى فتحي الشاذلي",
+      "national_id": "29406060606789",
+      "hire_date": "2020-02-01",
+      "phone": "01166667777",
+      "job_title": "موظف تجميل",
+      "salary": 6000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 7,
+      "employee_name": "خالد عثمان الجيار",
+      "national_id": "29307070707890",
+      "hire_date": "2020-05-25",
+      "phone": "01277778888",
+      "job_title": "طيار دليفري",
+      "salary": 5500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 8,
+      "employee_name": "رشا سعيد منصور",
+      "national_id": "29208080808901",
+      "hire_date": "2021-08-12",
+      "phone": "01588889999",
+      "job_title": "موظف مبيعات",
+      "salary": 6000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 9,
+      "employee_name": "نهى شفيق زاهر",
+      "national_id": "29109090909012",
+      "hire_date": "2021-10-05",
+      "phone": "01099990000",
+      "job_title": "مدير فرع",
+      "salary": 14500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 10,
+      "employee_name": "كريم هاني سلامة",
+      "national_id": "29010101010123",
+      "hire_date": "2022-01-20",
+      "phone": "01100001111",
+      "job_title": "صيدلي أول",
+      "salary": 11500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 11,
+      "employee_name": "دينا حسين صبري",
+      "national_id": "28911111111234",
+      "hire_date": "2022-04-11",
+      "phone": "01211112222",
+      "job_title": "صيدلي ثان",
+      "salary": 9000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 12,
+      "employee_name": "طارق مرسي عبد الله",
+      "national_id": "28812121212345",
+      "hire_date": "2022-07-01",
+      "phone": "01522223333",
+      "job_title": "مساعد صيدلي",
+      "salary": 6800,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 13,
+      "employee_name": "هيثم سمير غانم",
+      "national_id": "28701010101234",
+      "hire_date": "2022-09-15",
+      "phone": "01033334444",
+      "job_title": "كاشير",
+      "salary": 5800,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 14,
+      "employee_name": "شيماء فاروق قاسم",
+      "national_id": "28602020202345",
+      "hire_date": "2022-12-01",
+      "phone": "01144445555",
+      "job_title": "موظف مبيعات",
+      "salary": 5800,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 15,
+      "employee_name": "مروة نبيل زكي",
+      "national_id": "28503030303456",
+      "hire_date": "2023-02-10",
+      "phone": "01255556666",
+      "job_title": "طيار دليفري",
+      "salary": 5300,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 16,
+      "employee_name": "يوسف أمجد فوزي",
+      "national_id": "28404040404567",
+      "hire_date": "2023-04-05",
+      "phone": "01566667777",
+      "job_title": "طيار دليفري",
+      "salary": 5300,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 17,
+      "employee_name": "إيمان علاء الدين",
+      "national_id": "28305050505678",
+      "hire_date": "2023-05-20",
+      "phone": "01077778888",
+      "job_title": "موظف تجميل",
+      "salary": 5800,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 18,
+      "employee_name": "علا رفعت الشريف",
+      "national_id": "28206060606789",
+      "hire_date": "2023-07-15",
+      "phone": "01188889999",
+      "job_title": "كاشير",
+      "salary": 5800,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 19,
+      "employee_name": "عمرو وجدي الحكيم",
+      "national_id": "28107070707890",
+      "hire_date": "2023-09-01",
+      "phone": "01299990000",
+      "job_title": "مدير فرع",
+      "salary": 14000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 20,
+      "employee_name": "ياسمين مجدي شاكر",
+      "national_id": "28008080808901",
+      "hire_date": "2023-10-18",
+      "phone": "01500001111",
+      "job_title": "صيدلي أول",
+      "salary": 11000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 21,
+      "employee_name": "شريف مدحت عزمي",
+      "national_id": "27909090909012",
+      "hire_date": "2023-11-30",
+      "phone": "01022223333",
+      "job_title": "صيدلي ثان",
+      "salary": 8800,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 22,
+      "employee_name": "رانيا ممدوح زهران",
+      "national_id": "27810101010123",
+      "hire_date": "2024-01-05",
+      "phone": "01133334444",
+      "job_title": "مساعد صيدلي",
+      "salary": 6500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 23,
+      "employee_name": "حازم أشرف طه",
+      "national_id": "27711111111234",
+      "hire_date": "2024-02-14",
+      "phone": "01244445555",
+      "job_title": "كاشير",
+      "salary": 5500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 24,
+      "employee_name": "شادي إيهاب سليم",
+      "national_id": "27612121212345",
+      "hire_date": "2024-03-22",
+      "phone": "01555556666",
+      "job_title": "موظف مبيعات",
+      "salary": 5500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 25,
+      "employee_name": "ندى طارق الجواد",
+      "national_id": "27501010101234",
+      "hire_date": "2024-05-01",
+      "phone": "01066667777",
+      "job_title": "طيار دليفري",
+      "salary": 5100,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 26,
+      "employee_name": "رامي عصام زهران",
+      "national_id": "27402020202345",
+      "hire_date": "2024-06-18",
+      "phone": "01177778888",
+      "job_title": "طيار دليفري",
+      "salary": 5100,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 27,
+      "employee_name": "مها مسعد الجيار",
+      "national_id": "27303030303456",
+      "hire_date": "2024-07-29",
+      "phone": "01288889999",
+      "job_title": "موظف تجميل",
+      "salary": 5500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 28,
+      "employee_name": "وائل بهجت النمس",
+      "national_id": "27204040404567",
+      "hire_date": "2024-09-11",
+      "phone": "01599990000",
+      "job_title": "مدير فرع",
+      "salary": 13500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 29,
+      "employee_name": "سامح طلعت الهواري",
+      "national_id": "27105050505678",
+      "hire_date": "2024-10-02",
+      "phone": "01000001111",
+      "job_title": "صيدلي أول",
+      "salary": 10500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 30,
+      "employee_name": "لبنى سعيد عبد النبي",
+      "national_id": "27006060606789",
+      "hire_date": "2024-11-20",
+      "phone": "01111112222",
+      "job_title": "صيدلي ثان",
+      "salary": 8500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 31,
+      "employee_name": "تامر جلال البارودي",
+      "national_id": "26907070707890",
+      "hire_date": "2025-01-07",
+      "phone": "01222223333",
+      "job_title": "مساعد صيدلي",
+      "salary": 6200,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 32,
+      "employee_name": "دعاء عبد الفتاح غريب",
+      "national_id": "26808080808901",
+      "hire_date": "2025-02-18",
+      "phone": "01533334444",
+      "job_title": "كاشير",
+      "salary": 5300,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 33,
+      "employee_name": "إيهاب ضياء الديب",
+      "national_id": "26709090909012",
+      "hire_date": "2025-03-25",
+      "phone": "01044445555",
+      "job_title": "موظف مبيعات",
+      "salary": 5300,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 34,
+      "employee_name": "نرمين عادل الصاوي",
+      "national_id": "26610101010123",
+      "hire_date": "2025-05-12",
+      "phone": "01155556666",
+      "job_title": "طيار دليفري",
+      "salary": 5000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 35,
+      "employee_name": "عادل رمزي الشافعي",
+      "national_id": "26511111111234",
+      "hire_date": "2025-06-30",
+      "phone": "01266667777",
+      "job_title": "طيار دليفري",
+      "salary": 5000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 36,
+      "employee_name": "ميرفت رفعت الأبنودي",
+      "national_id": "26412121212345",
+      "hire_date": "2025-08-14",
+      "phone": "01577778888",
+      "job_title": "موظف تجميل",
+      "salary": 5300,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 37,
+      "employee_name": "أمجد رأفت السلاب",
+      "national_id": "26301010101234",
+      "hire_date": "2025-09-09",
+      "phone": "01088889999",
+      "job_title": "مدير فرع",
+      "salary": 13000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 38,
+      "employee_name": "سحر أنور العشري",
+      "national_id": "26202020202345",
+      "hire_date": "2025-10-22",
+      "phone": "01199990000",
+      "job_title": "صيدلي أول",
+      "salary": 10000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 39,
+      "employee_name": "حاتم عز الدين كامل",
+      "national_id": "26103030303456",
+      "hire_date": "2025-12-05",
+      "phone": "01200001111",
+      "job_title": "صيدلي ثان",
+      "salary": 8200,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 40,
+      "employee_name": "سيد محروس الهواري",
+      "national_id": "26004040404567",
+      "hire_date": "2026-01-19",
+      "phone": "01511112222",
+      "job_title": "مساعد صيدلي",
+      "salary": 6000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 41,
+      "employee_name": "هناء عبد الله القاضي",
+      "national_id": "25905050505678",
+      "hire_date": "2026-02-28",
+      "phone": "01022223333",
+      "job_title": "كاشير",
+      "salary": 5100,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 42,
+      "employee_name": "توقيع عبد الحي سليم",
+      "national_id": "25806060606789",
+      "hire_date": "2026-04-10",
+      "phone": "01133334444",
+      "job_title": "موظف مبيعات",
+      "salary": 5100,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 43,
+      "employee_name": "نجلاء سعد الباز",
+      "national_id": "25707070707890",
+      "hire_date": "2026-05-15",
+      "phone": "01244445555",
+      "job_title": "طيار دليفري",
+      "salary": 4800,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 44,
+      "employee_name": "سامي محمود الجيار",
+      "national_id": "25608080808901",
+      "hire_date": "2026-06-22",
+      "phone": "01555556666",
+      "job_title": "طيار دليفري",
+      "salary": 4800,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 45,
+      "employee_name": "راندا نبيل السعدني",
+      "national_id": "25509090909012",
+      "hire_date": "2026-07-30",
+      "phone": "01066667777",
+      "job_title": "موظف تجميل",
+      "salary": 5100,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 46,
+      "employee_name": "كريم رفعت الأبنودي",
+      "national_id": "25410101010123",
+      "hire_date": "2026-08-11",
+      "phone": "01177778888",
+      "job_title": "مدير فرع",
+      "salary": 12500,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 47,
+      "employee_name": "رأفت سمير غانم",
+      "national_id": "25311111111234",
+      "hire_date": "2026-09-05",
+      "phone": "01288889999",
+      "job_title": "صيدلي أول",
+      "salary": 9800,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 48,
+      "employee_name": "فاروق قاسم زهران",
+      "national_id": "25212121212345",
+      "hire_date": "2026-10-01",
+      "phone": "01599990000",
+      "job_title": "صيدلي ثان",
+      "salary": 8000,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 49,
+      "employee_name": "هدى عبد العزيز محروس",
+      "national_id": "25101010101234",
+      "hire_date": "2026-10-20",
+      "phone": "01000001111",
+      "job_title": "مساعد صيدلي",
+      "salary": 5800,
+      "branch_id": 1
+    },
+    {
+      "employee_id": 50,
+      "employee_name": "أشرف طه محروس",
+      "national_id": "25002020202345",
+      "hire_date": "2026-11-01",
+      "phone": "01111112222",
+      "job_title": "كاشير",
+      "salary": 5000,
+      "branch_id": 1
+    }
+  ],
+  "branches": [
+    {
+      "branch_id": 1,
+      "branch_name": "فرع العزبي - مدينة نصر الرئيسي",
+      "branch_status": "نشط",
+      "phone": "0224012345",
+      "governorate": "القاهرة",
+      "city": "مدينة نصر",
+      "street": "شارع الطيران",
+      "warehouse_id": 1,
+      "employee_id": 1,
+      "manager_start_date": "2015-01-15"
+    },
+    {
+      "branch_id": 2,
+      "branch_name": "فرع العزبي - الدقي التحرير",
+      "branch_status": "نشط",
+      "phone": "0233356789",
+      "governorate": "الجيزة",
+      "city": "الدقي",
+      "street": "شارع التحرير",
+      "warehouse_id": 4,
+      "employee_id": 9,
+      "manager_start_date": "2021-10-05"
+    },
+    {
+      "branch_id": 3,
+      "branch_name": "فرع العزبي - سموحة فوزي معاذ",
+      "branch_status": "نشط",
+      "phone": "034201122",
+      "governorate": "الإسكندرية",
+      "city": "سموحة",
+      "street": "شارع فوزي معاذ",
+      "warehouse_id": 3,
+      "employee_id": 19,
+      "manager_start_date": "2023-09-01"
+    },
+    {
+      "branch_id": 4,
+      "branch_name": "فرع العزبي - طنطا الجيش",
+      "branch_status": "نشط",
+      "phone": "0403314455",
+      "governorate": "الغربية",
+      "city": "طنطا",
+      "street": "شارع الجيش",
+      "warehouse_id": 2,
+      "employee_id": 28,
+      "manager_start_date": "2024-09-11"
+    },
+    {
+      "branch_id": 5,
+      "branch_name": "فرع العزبي - أسيوط الهلالي",
+      "branch_status": "نشط",
+      "phone": "0882314567",
+      "governorate": "أسيوط",
+      "city": "أسيوط",
+      "street": "شارع الهلالي",
+      "warehouse_id": 5,
+      "employee_id": 37,
+      "manager_start_date": "2025-09-09"
+    },
+    {
+      "branch_id": 6,
+      "branch_name": "فرع العزبي - الإسماعيلية السلطان",
+      "branch_status": "نشط",
+      "phone": "0643912345",
+      "governorate": "الإسماعيلية",
+      "city": "الإسماعيلية",
+      "street": "شارع السلطان حسين",
+      "warehouse_id": 6,
+      "employee_id": 46,
+      "manager_start_date": "2026-08-11"
+    },
+    {
+      "branch_id": 7,
+      "branch_name": "فرع العزبي - العبور الصناعية",
+      "branch_status": "تحت التجديد",
+      "phone": "0244891122",
+      "governorate": "القليوبية",
+      "city": "العبور",
+      "street": "المنطقة الصناعية الأولى",
+      "warehouse_id": 7,
+      "employee_id": 2,
+      "manager_start_date": "2016-03-20"
+    },
+    {
+      "branch_id": 8,
+      "branch_name": "فرع العزبي - المنصورة المشاية",
+      "branch_status": "نشط",
+      "phone": "0502234455",
+      "governorate": "الدقهلية",
+      "city": "المنصورة",
+      "street": "شارع المشاية السفلية",
+      "warehouse_id": 8,
+      "employee_id": 10,
+      "manager_start_date": "2022-01-20"
+    },
+    {
+      "branch_id": 9,
+      "branch_name": "فرع العزبي - السويس الأربعين",
+      "branch_status": "نشط",
+      "phone": "0623344556",
+      "governorate": "السويس",
+      "city": "السويس",
+      "street": "شارع الجيش الأربعين",
+      "warehouse_id": 9,
+      "employee_id": 20,
+      "manager_start_date": "2023-10-18"
+    },
+    {
+      "branch_id": 10,
+      "branch_name": "فرع العزبي - التجمع الخامس الـ 90",
+      "branch_status": "نشط",
+      "phone": "0225381122",
+      "governorate": "القاهرة",
+      "city": "القاهرة الجديدة",
+      "street": "شارع التسعين الجنوبي",
+      "warehouse_id": 10,
+      "employee_id": 29,
+      "manager_start_date": "2024-10-02"
+    },
+    {
+      "branch_id": 11,
+      "branch_name": "فرع العزبي - سوهاج المحطة",
+      "branch_status": "نشط",
+      "phone": "0932321122",
+      "governorate": "سوهاج",
+      "city": "سوهاج",
+      "street": "شارع المحطة الرئيسي",
+      "warehouse_id": 11,
+      "employee_id": 38,
+      "manager_start_date": "2025-10-22"
+    },
+    {
+      "branch_id": 12,
+      "branch_name": "فرع العزبي - الزقازيق القومية",
+      "branch_status": "نشط",
+      "phone": "0552309988",
+      "governorate": "الشرقية",
+      "city": "الزقازيق",
+      "street": "شارع القومية فلل الجامعة",
+      "warehouse_id": 12,
+      "employee_id": 47,
+      "manager_start_date": "2026-09-05"
+    },
+    {
+      "branch_id": 13,
+      "branch_name": "فرع العزبي - بورسعيد أوجيني",
+      "branch_status": "نشط",
+      "phone": "0663223344",
+      "governorate": "بورسعيد",
+      "city": "بورسعيد",
+      "street": "شارع أوجيني حي العرب",
+      "warehouse_id": 13,
+      "employee_id": 3,
+      "manager_start_date": "2017-06-10"
+    },
+    {
+      "branch_id": 14,
+      "branch_name": "فرع العزبي - دمياط الجديدة الصعيدي",
+      "branch_status": "نشط",
+      "phone": "0572401122",
+      "governorate": "دمياط",
+      "city": "دمياط الجديدة",
+      "street": "شارع الصعيدي مجاورة 2",
+      "warehouse_id": 14,
+      "employee_id": 11,
+      "manager_start_date": "2022-04-11"
+    },
+    {
+      "branch_id": 15,
+      "branch_name": "فرع العزبي - الفيوم الحرية",
+      "branch_status": "نشط",
+      "phone": "0842145566",
+      "governorate": "الفيوم",
+      "city": "الفيوم",
+      "street": "شارع الحرية وسط البلد",
+      "warehouse_id": 15,
+      "employee_id": 21,
+      "manager_start_date": "2023-11-30"
+    },
+    {
+      "branch_id": 16,
+      "branch_name": "فرع العزبي - المنيا شاهين",
+      "branch_status": "نشط",
+      "phone": "0862345566",
+      "governorate": "المنيا",
+      "city": "المنيا",
+      "street": "شارع عدنان المالكي شاهين",
+      "warehouse_id": 16,
+      "employee_id": 30,
+      "manager_start_date": "2024-11-20"
+    },
+    {
+      "branch_id": 17,
+      "branch_name": "فرع العزبي - قنا المحطة",
+      "branch_status": "نشط",
+      "phone": "0963312233",
+      "governorate": "قنا",
+      "city": "قنا",
+      "street": "شارع مصنع الغزل والنسيج",
+      "warehouse_id": 17,
+      "employee_id": 39,
+      "manager_start_date": "2025-12-05"
+    },
+    {
+      "branch_id": 18,
+      "branch_name": "فرع العزبي - شرم الشيخ الهضبة",
+      "branch_status": "نشط",
+      "phone": "0693661122",
+      "governorate": "جنوب سيناء",
+      "city": "شرم الشيخ",
+      "street": "طريق السلام الهضبة",
+      "warehouse_id": 18,
+      "employee_id": 48,
+      "manager_start_date": "2026-10-01"
+    },
+    {
+      "branch_id": 19,
+      "branch_name": "فرع العزبي - الغردقة الشيراتون",
+      "branch_status": "نشط",
+      "phone": "0653445566",
+      "governorate": "البحر الأحمر",
+      "city": "الغردقة",
+      "street": "طريق النصر الدهار",
+      "warehouse_id": 19,
+      "employee_id": 4,
+      "manager_start_date": "2018-09-01"
+    },
+    {
+      "branch_id": 20,
+      "branch_name": "فرع العزبي - أسوان أبطال التحرير",
+      "branch_status": "نشط",
+      "phone": "0972412233",
+      "governorate": "أسوان",
+      "city": "أسوان",
+      "street": "طريق السادات السيل",
+      "warehouse_id": 20,
+      "employee_id": 12,
+      "manager_start_date": "2022-07-01"
+    },
+    {
+      "branch_id": 21,
+      "branch_name": "فرع العزبي - مرسى مطروح علم الروم",
+      "branch_status": "مغلق مؤقتاً",
+      "phone": "0894931122",
+      "governorate": "مطروح",
+      "city": "مرسى مطروح",
+      "street": "شارع علم الروم الرئيسي",
+      "warehouse_id": 21,
+      "employee_id": 22,
+      "manager_start_date": "2024-01-05"
+    },
+    {
+      "branch_id": 22,
+      "branch_name": "فرع العزبي - العريش الفاتح",
+      "branch_status": "نشط",
+      "phone": "0683351122",
+      "governorate": "شمال سيناء",
+      "city": "العريش",
+      "street": "شارع الفاتح الساحلي",
+      "warehouse_id": 22,
+      "employee_id": 31,
+      "manager_start_date": "2025-01-07"
+    },
+    {
+      "branch_id": 23,
+      "branch_name": "فرع العزبي - دمنهور عارف",
+      "branch_status": "نشط",
+      "phone": "0453316677",
+      "governorate": "البحيرة",
+      "city": "دمنهور",
+      "street": "شارع عبد السلام عارف",
+      "warehouse_id": 23,
+      "employee_id": 40,
+      "manager_start_date": "2025-02-18"
+    },
+    {
+      "branch_id": 24,
+      "branch_name": "فرع العزبي - كفر الشيخ دسوق",
+      "branch_status": "نشط",
+      "phone": "0473214455",
+      "governorate": "كفر الشيخ",
+      "city": "كفر الشيخ",
+      "street": "طريق دسوق كفر الشيخ",
+      "warehouse_id": 24,
+      "employee_id": 49,
+      "manager_start_date": "2026-10-20"
+    },
+    {
+      "branch_id": 25,
+      "branch_name": "فرع العزبي - شبين الكوم الاستاد",
+      "branch_status": "نشط",
+      "phone": "0482223344",
+      "governorate": "المنوفية",
+      "city": "شبين الكوم",
+      "street": "شارع صبري قاضي خلف الاستاد",
+      "warehouse_id": 25,
+      "employee_id": 5,
+      "manager_start_date": "2019-11-15"
+    },
+    {
+      "branch_id": 26,
+      "branch_name": "فرع العزبي - بني سويف صلاح سالم",
+      "branch_status": "نشط",
+      "phone": "0822154455",
+      "governorate": "بني سويف",
+      "city": "بني سويف",
+      "street": "شارع صلاح سالم أمام المحافظة",
+      "warehouse_id": 26,
+      "employee_id": 13,
+      "manager_start_date": "2022-09-15"
+    },
+    {
+      "branch_id": 27,
+      "branch_name": "فرع العزبي - القناطر الخيرية كورنيش",
+      "branch_status": "نشط",
+      "phone": "0242211223",
+      "governorate": "القليوبية",
+      "city": "القناطر الخيرية",
+      "street": "كورنيش النيل بجوار المحكمة",
+      "warehouse_id": 27,
+      "employee_id": 23,
+      "manager_start_date": "2024-02-14"
+    },
+    {
+      "branch_id": 28,
+      "branch_name": "فرع العزبي - المحلة منشية البكري",
+      "branch_status": "نشط",
+      "phone": "0402234455",
+      "governorate": "الغربية",
+      "city": "المحلة الكبرى",
+      "street": "شارع شكري القواتلي",
+      "warehouse_id": 28,
+      "employee_id": 32,
+      "manager_start_date": "2025-02-18"
+    },
+    {
+      "branch_id": 29,
+      "branch_name": "فرع العزبي - ميت غمر بورسعيد",
+      "branch_status": "نشط",
+      "phone": "0506911223",
+      "governorate": "الدقهلية",
+      "city": "ميت غمر",
+      "street": "شارع بورسعيد طريق بنها",
+      "warehouse_id": 29,
+      "employee_id": 41,
+      "manager_start_date": "2026-02-28"
+    },
+    {
+      "branch_id": 30,
+      "branch_name": "فرع العزبي - العاشر من رمضان أ1",
+      "branch_status": "نشط",
+      "phone": "0153611223",
+      "governorate": "الشرقية",
+      "city": "العاشر من رمضان",
+      "street": "المنطقة الصناعية أ1",
+      "warehouse_id": 30,
+      "employee_id": 50,
+      "manager_start_date": "2026-11-01"
+    },
+    {
+      "branch_id": 31,
+      "branch_name": "فرع العزبي - مدينة السادات الرابعة",
+      "branch_status": "نشط",
+      "phone": "0482601122",
+      "governorate": "المنوفية",
+      "city": "مدينة السادات",
+      "street": "المنطقة الصناعية الرابعة",
+      "warehouse_id": 31,
+      "employee_id": 6,
+      "manager_start_date": "2020-02-01"
+    },
+    {
+      "branch_id": 32,
+      "branch_name": "فرع العزبي - المنيا الجديدة الحي 3",
+      "branch_status": "نشط",
+      "phone": "0862291122",
+      "governorate": "المنيا",
+      "city": "المنيا الجديدة",
+      "street": "الحي الصناعي بجوار الجهاز",
+      "warehouse_id": 32,
+      "employee_id": 14,
+      "manager_start_date": "2022-12-01"
+    },
+    {
+      "branch_id": 33,
+      "branch_name": "فرع العزبي - أسيوط الجديدة المطورين",
+      "branch_status": "نشط",
+      "phone": "0882241122",
+      "governorate": "أسيوط",
+      "city": "أسيوط الجديدة",
+      "street": "منطقة المطورين والمخازن",
+      "warehouse_id": 33,
+      "employee_id": 24,
+      "manager_start_date": "2024-03-22"
+    },
+    {
+      "branch_id": 34,
+      "branch_name": "فرع العزبي - طيبة الجديدة الأقصر",
+      "branch_status": "نشط",
+      "phone": "0952201122",
+      "governorate": "الأقصر",
+      "city": "طيبة الجديدة",
+      "street": "المنطقة الصناعية الأولى",
+      "warehouse_id": 34,
+      "employee_id": 33,
+      "manager_start_date": "2025-03-25"
+    },
+    {
+      "branch_id": 35,
+      "branch_name": "فرع العزبي - أسوان الجديدة الخدمي",
+      "branch_status": "نشط",
+      "phone": "0972251122",
+      "governorate": "أسوان",
+      "city": "أسوان الجديدة",
+      "street": "المحور الخدمي الغربي",
+      "warehouse_id": 35,
+      "employee_id": 42,
+      "manager_start_date": "2026-04-10"
+    },
+    {
+      "branch_id": 36,
+      "branch_name": "فرع العزبي - قنا الجديدة خلف الموقف",
+      "branch_status": "نشط",
+      "phone": "0962261122",
+      "governorate": "قنا",
+      "city": "قنا الجديدة",
+      "street": "المنطقة الصناعية خلف الموقف",
+      "warehouse_id": 36,
+      "employee_id": 7,
+      "manager_start_date": "2020-05-25"
+    },
+    {
+      "branch_id": 37,
+      "branch_name": "فرع العزبي - سوهاج الجديدة الحي 3",
+      "branch_status": "نشط",
+      "phone": "0932271122",
+      "governorate": "سوهاج",
+      "city": "سوهاج الجديدة",
+      "street": "منطقة الصناعات المتوسطة",
+      "warehouse_id": 37,
+      "employee_id": 15,
+      "manager_start_date": "2023-02-10"
+    },
+    {
+      "branch_id": 38,
+      "branch_name": "فرع العزبي - بني سويف الجديدة الشرقية",
+      "branch_status": "نشط",
+      "phone": "0822281122",
+      "governorate": "بني سويف",
+      "city": "بني سويف الجديدة",
+      "street": "المنطقة الصناعية الشرقية ب 3",
+      "warehouse_id": 38,
+      "employee_id": 25,
+      "manager_start_date": "2024-05-01"
+    },
+    {
+      "branch_id": 39,
+      "branch_name": "فرع العزبي - الفيوم الجديدة المجاورة 2",
+      "branch_status": "نشط",
+      "phone": "0842291122",
+      "governorate": "الفيوم",
+      "city": "الفيوم الجديدة",
+      "street": "الحي الثالث المجاورة الثانية",
+      "warehouse_id": 39,
+      "employee_id": 34,
+      "manager_start_date": "2025-05-12"
+    },
+    {
+      "branch_id": 40,
+      "branch_name": "فرع العزبي - الصالحية الجديدة المتميزة",
+      "branch_status": "نشط",
+      "phone": "0553201122",
+      "governorate": "الشرقية",
+      "city": "الصالحية الجديدة",
+      "street": "المنطقة الصناعية الأولى",
+      "warehouse_id": 40,
+      "employee_id": 43,
+      "manager_start_date": "2026-05-15"
+    },
+    {
+      "branch_id": 41,
+      "branch_name": "فرع العزبي - النوبارية الجديدة الزراعي",
+      "branch_status": "نشط",
+      "phone": "0452601122",
+      "governorate": "البحيرة",
+      "city": "النوبارية الجديدة",
+      "street": "المنطقة الصناعية الثانية",
+      "warehouse_id": 41,
+      "employee_id": 8,
+      "manager_start_date": "2021-08-12"
+    },
+    {
+      "branch_id": 42,
+      "branch_name": "فرع العزبي - برج العرب الخامسة",
+      "branch_status": "نشط",
+      "phone": "0345911223",
+      "governorate": "الإسكندرية",
+      "city": "برج العرب الجديدة",
+      "street": "المنطقة الصناعية الخامسة",
+      "warehouse_id": 42,
+      "employee_id": 16,
+      "manager_start_date": "2023-04-05"
+    },
+    {
+      "branch_id": 43,
+      "branch_name": "فرع العزبي - دمياط الجديدة المركزية",
+      "branch_status": "نشط",
+      "phone": "0572221122",
+      "governorate": "دمياط",
+      "city": "دمياط الجديدة",
+      "street": "المنطقة الصناعية المركزية",
+      "warehouse_id": 43,
+      "employee_id": 26,
+      "manager_start_date": "2024-06-18"
+    },
+    {
+      "branch_id": 44,
+      "branch_name": "فرع العزبي - الشروق خلف السنترال",
+      "branch_status": "نشط",
+      "phone": "0228611223",
+      "governorate": "القاهرة",
+      "city": "الشروق",
+      "street": "منطقة الورش المتاحة",
+      "warehouse_id": 44,
+      "employee_id": 35,
+      "manager_start_date": "2025-06-30"
+    },
+    {
+      "branch_id": 45,
+      "branch_name": "فرع العزبي - بدر الصناعية ب 2",
+      "branch_status": "نشط",
+      "phone": "0228641122",
+      "governorate": "القاهرة",
+      "city": "بدر",
+      "street": "المنطقة الصناعية المركزية ب 2",
+      "warehouse_id": 45,
+      "employee_id": 44,
+      "manager_start_date": "2026-06-22"
+    },
+    {
+      "branch_id": 46,
+      "branch_name": "فرع العزبي - هليوبوليس الطبي المتميز",
+      "branch_status": "نشط",
+      "phone": "0228911223",
+      "governorate": "القاهرة",
+      "city": "هليوبوليس الجديدة",
+      "street": "الحي الطبي المتميز",
+      "warehouse_id": 46,
+      "employee_id": 46,
+      "manager_start_date": "2026-08-11"
+    },
+    {
+      "branch_id": 47,
+      "branch_name": "فرع العزبي - كوم أمبو السكة الحديد",
+      "branch_status": "نشط",
+      "phone": "0973401122",
+      "governorate": "أسوان",
+      "city": "كوم أمبو",
+      "street": "شارع السكة الحديد بجوار الموقف",
+      "warehouse_id": 47,
+      "employee_id": 17,
+      "manager_start_date": "2023-05-20"
+    },
+    {
+      "branch_id": 48,
+      "branch_name": "فرع العزبي - إدفو المعبد الرئيسي",
+      "branch_status": "نشط",
+      "phone": "0974801122",
+      "governorate": "أسوان",
+      "city": "إدفو",
+      "street": "شارع المعبد الميدان الرئيسي",
+      "warehouse_id": 48,
+      "employee_id": 36,
+      "manager_start_date": "2025-08-14"
+    },
+    {
+      "branch_id": 49,
+      "branch_name": "فرع العزبي - نجع حمادي بنك مصر",
+      "branch_status": "نشط",
+      "phone": "0962401122",
+      "governorate": "قنا",
+      "city": "نجع حمادي",
+      "street": "شارع 23 يوليو خلف بنك مصر",
+      "warehouse_id": 49,
+      "employee_id": 46,
+      "manager_start_date": "2026-08-11"
+    },
+    {
+      "branch_id": 50,
+      "branch_name": "فرع العزبي - إسنا كورنيش الجنوب",
+      "branch_status": "نشط",
+      "phone": "0952501122",
+      "governorate": "الأقصر",
+      "city": "إسنا",
+      "street": "شارع كورنيش النيل الممر الجديد",
+      "warehouse_id": 50,
+      "employee_id": 46,
+      "manager_start_date": "2026-08-11"
+    }
+  ],
+  "branchInventory": [
+    {
+      "inventory_id": 1,
+      "available_quantity": 150,
+      "reorder_level": 20,
+      "shelf_location": "الرف أ-١",
+      "expiry_date_batch": "2028-12-01",
+      "medicine_id": 1,
+      "branch_id": 1
+    },
+    {
+      "inventory_id": 2,
+      "available_quantity": 85,
+      "reorder_level": 15,
+      "shelf_location": "الرف ب-٣",
+      "expiry_date_batch": "2027-06-15",
+      "medicine_id": 2,
+      "branch_id": 2
+    },
+    {
+      "inventory_id": 3,
+      "available_quantity": 120,
+      "reorder_level": 25,
+      "shelf_location": "الرف أ-٢",
+      "expiry_date_batch": "2028-03-20",
+      "medicine_id": 3,
+      "branch_id": 3
+    },
+    {
+      "inventory_id": 4,
+      "available_quantity": 90,
+      "reorder_level": 10,
+      "shelf_location": "الرف ج-١",
+      "expiry_date_batch": "2029-01-10",
+      "medicine_id": 4,
+      "branch_id": 4
+    },
+    {
+      "inventory_id": 5,
+      "available_quantity": 200,
+      "reorder_level": 30,
+      "shelf_location": "الرف د-٢",
+      "expiry_date_batch": "2027-11-30",
+      "medicine_id": 5,
+      "branch_id": 5
+    },
+    {
+      "inventory_id": 6,
+      "available_quantity": 65,
+      "reorder_level": 15,
+      "shelf_location": "الرف ب-١",
+      "expiry_date_batch": "2027-09-14",
+      "medicine_id": 6,
+      "branch_id": 6
+    },
+    {
+      "inventory_id": 7,
+      "available_quantity": 110,
+      "reorder_level": 20,
+      "shelf_location": "الرف أ-٤",
+      "expiry_date_batch": "2028-08-25",
+      "medicine_id": 7,
+      "branch_id": 7
+    },
+    {
+      "inventory_id": 8,
+      "available_quantity": 45,
+      "reorder_level": 10,
+      "shelf_location": "الرف ج-٥",
+      "expiry_date_batch": "2029-05-12",
+      "medicine_id": 8,
+      "branch_id": 8
+    },
+    {
+      "inventory_id": 9,
+      "available_quantity": 300,
+      "reorder_level": 50,
+      "shelf_location": "الرف د-١",
+      "expiry_date_batch": "2028-10-05",
+      "medicine_id": 9,
+      "branch_id": 9
+    },
+    {
+      "inventory_id": 10,
+      "available_quantity": 140,
+      "reorder_level": 25,
+      "shelf_location": "الرف ب-٢",
+      "expiry_date_batch": "2028-04-18",
+      "medicine_id": 10,
+      "branch_id": 10
+    },
+    {
+      "inventory_id": 11,
+      "available_quantity": 75,
+      "reorder_level": 15,
+      "shelf_location": "الرف أ-٣",
+      "expiry_date_batch": "2027-12-22",
+      "medicine_id": 11,
+      "branch_id": 11
+    },
+    {
+      "inventory_id": 12,
+      "available_quantity": 160,
+      "reorder_level": 20,
+      "shelf_location": "الرف ج-٢",
+      "expiry_date_batch": "2028-07-07",
+      "medicine_id": 12,
+      "branch_id": 12
+    },
+    {
+      "inventory_id": 13,
+      "available_quantity": 50,
+      "reorder_level": 10,
+      "shelf_location": "الرف د-٣",
+      "expiry_date_batch": "2029-03-14",
+      "medicine_id": 13,
+      "branch_id": 13
+    },
+    {
+      "inventory_id": 14,
+      "available_quantity": 95,
+      "reorder_level": 15,
+      "shelf_location": "الرف ب-٤",
+      "expiry_date_batch": "2027-10-19",
+      "medicine_id": 14,
+      "branch_id": 14
+    },
+    {
+      "inventory_id": 15,
+      "available_quantity": 30,
+      "reorder_level": 5,
+      "shelf_location": "الرف ثلاجة-١",
+      "expiry_date_batch": "2027-04-01",
+      "medicine_id": 15,
+      "branch_id": 15
+    },
+    {
+      "inventory_id": 16,
+      "available_quantity": 180,
+      "reorder_level": 30,
+      "shelf_location": "الرف أ-٥",
+      "expiry_date_batch": "2028-02-28",
+      "medicine_id": 16,
+      "branch_id": 16
+    },
+    {
+      "inventory_id": 17,
+      "available_quantity": 40,
+      "reorder_level": 10,
+      "shelf_location": "الرف ثلاجة-٢",
+      "expiry_date_batch": "2027-08-11",
+      "medicine_id": 17,
+      "branch_id": 17
+    },
+    {
+      "inventory_id": 18,
+      "available_quantity": 55,
+      "reorder_level": 12,
+      "shelf_location": "الرف ج-٣",
+      "expiry_date_batch": "2029-02-20",
+      "medicine_id": 18,
+      "branch_id": 18
+    },
+    {
+      "inventory_id": 19,
+      "available_quantity": 130,
+      "reorder_level": 25,
+      "shelf_location": "الرف د-٤",
+      "expiry_date_batch": "2029-06-30",
+      "medicine_id": 19,
+      "branch_id": 19
+    },
+    {
+      "inventory_id": 20,
+      "available_quantity": 80,
+      "reorder_level": 15,
+      "shelf_location": "الرف ب-٥",
+      "expiry_date_batch": "2029-04-15",
+      "medicine_id": 20,
+      "branch_id": 20
+    },
+    {
+      "inventory_id": 21,
+      "available_quantity": 105,
+      "reorder_level": 20,
+      "shelf_location": "الرف ج-٤",
+      "expiry_date_batch": "2029-08-12",
+      "medicine_id": 21,
+      "branch_id": 21
+    },
+    {
+      "inventory_id": 22,
+      "available_quantity": 25,
+      "reorder_level": 8,
+      "shelf_location": "الرف د-٥",
+      "expiry_date_batch": "2028-11-01",
+      "medicine_id": 22,
+      "branch_id": 22
+    },
+    {
+      "inventory_id": 23,
+      "available_quantity": 115,
+      "reorder_level": 20,
+      "shelf_location": "الرف أ-٦",
+      "expiry_date_batch": "2028-09-18",
+      "medicine_id": 23,
+      "branch_id": 23
+    },
+    {
+      "inventory_id": 24,
+      "available_quantity": 145,
+      "reorder_level": 25,
+      "shelf_location": "الرف ب-٦",
+      "expiry_date_batch": "2027-05-14",
+      "medicine_id": 24,
+      "branch_id": 24
+    },
+    {
+      "inventory_id": 25,
+      "available_quantity": 60,
+      "reorder_level": 15,
+      "shelf_location": "الرف ج-٦",
+      "expiry_date_batch": "2029-03-01",
+      "medicine_id": 25,
+      "branch_id": 25
+    },
+    {
+      "inventory_id": 26,
+      "available_quantity": 35,
+      "reorder_level": 10,
+      "shelf_location": "الرف د-٦",
+      "expiry_date_batch": "2028-06-25",
+      "medicine_id": 26,
+      "branch_id": 26
+    },
+    {
+      "inventory_id": 27,
+      "available_quantity": 90,
+      "reorder_level": 15,
+      "shelf_location": "الرف هـ-١",
+      "expiry_date_batch": "2028-02-14",
+      "medicine_id": 27,
+      "branch_id": 27
+    },
+    {
+      "inventory_id": 28,
+      "available_quantity": 70,
+      "reorder_level": 12,
+      "shelf_location": "الرف هـ-٢",
+      "expiry_date_batch": "2027-07-22",
+      "medicine_id": 28,
+      "branch_id": 28
+    },
+    {
+      "inventory_id": 29,
+      "available_quantity": 40,
+      "reorder_level": 10,
+      "shelf_location": "الرف هـ-٣",
+      "expiry_date_batch": "2028-12-19",
+      "medicine_id": 29,
+      "branch_id": 29
+    },
+    {
+      "inventory_id": 30,
+      "available_quantity": 125,
+      "reorder_level": 20,
+      "shelf_location": "الرف هـ-٤",
+      "expiry_date_batch": "2029-07-11",
+      "medicine_id": 30,
+      "branch_id": 30
+    },
+    {
+      "inventory_id": 31,
+      "available_quantity": 85,
+      "reorder_level": 15,
+      "shelf_location": "الرف هـ-٥",
+      "expiry_date_batch": "2028-10-30",
+      "medicine_id": 31,
+      "branch_id": 31
+    },
+    {
+      "inventory_id": 32,
+      "available_quantity": 110,
+      "reorder_level": 22,
+      "shelf_location": "الرف و-١",
+      "expiry_date_batch": "2027-09-05",
+      "medicine_id": 32,
+      "branch_id": 32
+    },
+    {
+      "inventory_id": 33,
+      "available_quantity": 20,
+      "reorder_level": 5,
+      "shelf_location": "الرف ثلاجة-٣",
+      "expiry_date_batch": "2027-03-12",
+      "medicine_id": 33,
+      "branch_id": 33
+    },
+    {
+      "inventory_id": 34,
+      "available_quantity": 165,
+      "reorder_level": 30,
+      "shelf_location": "الرف و-٢",
+      "expiry_date_batch": "2027-08-08",
+      "medicine_id": 34,
+      "branch_id": 34
+    },
+    {
+      "inventory_id": 35,
+      "available_quantity": 95,
+      "reorder_level": 18,
+      "shelf_location": "الرف و-٣",
+      "expiry_date_batch": "2028-11-20",
+      "medicine_id": 35,
+      "branch_id": 35
+    },
+    {
+      "inventory_id": 36,
+      "available_quantity": 135,
+      "reorder_level": 25,
+      "shelf_location": "الرف و-٤",
+      "expiry_date_batch": "2028-04-14",
+      "medicine_id": 36,
+      "branch_id": 36
+    },
+    {
+      "inventory_id": 37,
+      "available_quantity": 75,
+      "reorder_level": 15,
+      "shelf_location": "الرف و-٥",
+      "expiry_date_batch": "2027-10-01",
+      "medicine_id": 37,
+      "branch_id": 37
+    },
+    {
+      "inventory_id": 38,
+      "available_quantity": 100,
+      "reorder_level": 20,
+      "shelf_location": "الرف ز-١",
+      "expiry_date_batch": "2028-06-15",
+      "medicine_id": 38,
+      "branch_id": 38
+    },
+    {
+      "inventory_id": 39,
+      "available_quantity": 50,
+      "reorder_level": 12,
+      "shelf_location": "الرف ز-٢",
+      "expiry_date_batch": "2028-09-09",
+      "medicine_id": 39,
+      "branch_id": 39
+    },
+    {
+      "inventory_id": 40,
+      "available_quantity": 190,
+      "reorder_level": 35,
+      "shelf_location": "الرف ز-٣",
+      "expiry_date_batch": "2027-04-20",
+      "medicine_id": 40,
+      "branch_id": 40
+    },
+    {
+      "inventory_id": 41,
+      "available_quantity": 120,
+      "reorder_level": 20,
+      "shelf_location": "الرف ز-٤",
+      "expiry_date_batch": "2028-08-11",
+      "medicine_id": 41,
+      "branch_id": 41
+    },
+    {
+      "inventory_id": 42,
+      "available_quantity": 80,
+      "reorder_level": 15,
+      "shelf_location": "الرف ز-٥",
+      "expiry_date_batch": "2028-01-25",
+      "medicine_id": 42,
+      "branch_id": 42
+    },
+    {
+      "inventory_id": 43,
+      "available_quantity": 210,
+      "reorder_level": 40,
+      "shelf_location": "الرف ح-١",
+      "expiry_date_batch": "2027-12-30",
+      "medicine_id": 43,
+      "branch_id": 43
+    },
+    {
+      "inventory_id": 44,
+      "available_quantity": 175,
+      "reorder_level": 30,
+      "shelf_location": "الرف ح-٢",
+      "expiry_date_batch": "2027-03-24",
+      "medicine_id": 44,
+      "branch_id": 44
+    },
+    {
+      "inventory_id": 45,
+      "available_quantity": 65,
+      "reorder_level": 15,
+      "shelf_location": "الرف ح-٣",
+      "expiry_date_batch": "2029-02-14",
+      "medicine_id": 45,
+      "branch_id": 45
+    },
+    {
+      "inventory_id": 46,
+      "available_quantity": 30,
+      "reorder_level": 8,
+      "shelf_location": "الرف ح-٤",
+      "expiry_date_batch": "2027-06-01",
+      "medicine_id": 46,
+      "branch_id": 46
+    },
+    {
+      "inventory_id": 47,
+      "available_quantity": 140,
+      "reorder_level": 25,
+      "shelf_location": "الرف ح-٥",
+      "expiry_date_batch": "2028-05-19",
+      "medicine_id": 47,
+      "branch_id": 47
+    },
+    {
+      "inventory_id": 48,
+      "available_quantity": 155,
+      "reorder_level": 25,
+      "shelf_location": "الرف ط-١",
+      "expiry_date_batch": "2027-10-10",
+      "medicine_id": 48,
+      "branch_id": 48
+    },
+    {
+      "inventory_id": 49,
+      "available_quantity": 45,
+      "reorder_level": 10,
+      "shelf_location": "الرف ط-٢",
+      "expiry_date_batch": "2027-08-20",
+      "medicine_id": 49,
+      "branch_id": 49
+    },
+    {
+      "inventory_id": 50,
+      "available_quantity": 110,
+      "reorder_level": 20,
+      "shelf_location": "الرف ط-٣",
+      "expiry_date_batch": "2028-11-15",
+      "medicine_id": 50,
+      "branch_id": 50
+    }
+  ],
+  "invoices": [
+    {
+      "invoice_id": 1,
+      "invoice_date": "2026-11-01 09:15:00",
+      "total_amount": 150,
+      "payment_method": "نقدي",
+      "employee_id": 1,
+      "branch_id": 1,
+      "customer_id": 1
+    },
+    {
+      "invoice_id": 2,
+      "invoice_date": "2026-11-01 10:30:12",
+      "total_amount": 240,
+      "payment_method": "فيزا",
+      "employee_id": 2,
+      "branch_id": 1,
+      "customer_id": 2
+    },
+    {
+      "invoice_id": 3,
+      "invoice_date": "2026-11-01 11:45:30",
+      "total_amount": 55,
+      "payment_method": "نقدي",
+      "employee_id": 3,
+      "branch_id": 1,
+      "customer_id": 3
+    },
+    {
+      "invoice_id": 4,
+      "invoice_date": "2026-11-01 13:00:22",
+      "total_amount": 97,
+      "payment_method": "محفظة إلكترونية",
+      "employee_id": 4,
+      "branch_id": 1,
+      "customer_id": 4
+    },
+    {
+      "invoice_id": 5,
+      "invoice_date": "2026-11-01 14:15:05",
+      "total_amount": 32,
+      "payment_method": "نقدي",
+      "employee_id": 5,
+      "branch_id": 1,
+      "customer_id": 5
+    },
+    {
+      "invoice_id": 6,
+      "invoice_date": "2026-11-01 15:20:40",
+      "total_amount": 56,
+      "payment_method": "فيزا",
+      "employee_id": 6,
+      "branch_id": 1,
+      "customer_id": 6
+    },
+    {
+      "invoice_id": 7,
+      "invoice_date": "2026-11-01 16:35:18",
+      "total_amount": 420,
+      "payment_method": "نقدي",
+      "employee_id": 7,
+      "branch_id": 1,
+      "customer_id": 7
+    },
+    {
+      "invoice_id": 8,
+      "invoice_date": "2026-11-01 17:50:00",
+      "total_amount": 210,
+      "payment_method": "فيزا",
+      "employee_id": 8,
+      "branch_id": 1,
+      "customer_id": 8
+    },
+    {
+      "invoice_id": 9,
+      "invoice_date": "2026-11-01 19:10:11",
+      "total_amount": 120,
+      "payment_method": "نقدي",
+      "employee_id": 9,
+      "branch_id": 1,
+      "customer_id": 9
+    },
+    {
+      "invoice_id": 10,
+      "invoice_date": "2026-11-01 20:45:55",
+      "total_amount": 45,
+      "payment_method": "محفظة إلكترونية",
+      "employee_id": 10,
+      "branch_id": 1,
+      "customer_id": 10
+    },
+    {
+      "invoice_id": 11,
+      "invoice_date": "2026-11-02 08:30:00",
+      "total_amount": 38,
+      "payment_method": "نقدي",
+      "employee_id": 11,
+      "branch_id": 1,
+      "customer_id": 11
+    },
+    {
+      "invoice_id": 12,
+      "invoice_date": "2026-11-02 09:45:15",
+      "total_amount": 130,
+      "payment_method": "فيزا",
+      "employee_id": 12,
+      "branch_id": 1,
+      "customer_id": 12
+    },
+    {
+      "invoice_id": 13,
+      "invoice_date": "2026-11-02 11:00:20",
+      "total_amount": 112,
+      "payment_method": "نقدي",
+      "employee_id": 13,
+      "branch_id": 1,
+      "customer_id": 13
+    },
+    {
+      "invoice_id": 14,
+      "invoice_date": "2026-11-02 12:15:35",
+      "total_amount": 80,
+      "payment_method": "فيزا",
+      "employee_id": 14,
+      "branch_id": 1,
+      "customer_id": 14
+    },
+    {
+      "invoice_id": 15,
+      "invoice_date": "2026-11-02 13:40:00",
+      "total_amount": 750,
+      "payment_method": "نقدي",
+      "employee_id": 15,
+      "branch_id": 1,
+      "customer_id": 15
+    },
+    {
+      "invoice_id": 16,
+      "invoice_date": "2026-11-02 14:55:12",
+      "total_amount": 44,
+      "payment_method": "محفظة إلكترونية",
+      "employee_id": 16,
+      "branch_id": 1,
+      "customer_id": 16
+    },
+    {
+      "invoice_id": 17,
+      "invoice_date": "2026-11-02 16:10:45",
+      "total_amount": 140,
+      "payment_method": "نقدي",
+      "employee_id": 17,
+      "branch_id": 1,
+      "customer_id": 17
+    },
+    {
+      "invoice_id": 18,
+      "invoice_date": "2026-11-02 17:25:30",
+      "total_amount": 280,
+      "payment_method": "فيزا",
+      "employee_id": 18,
+      "branch_id": 1,
+      "customer_id": 18
+    },
+    {
+      "invoice_id": 19,
+      "invoice_date": "2026-11-02 18:50:22",
+      "total_amount": 94,
+      "payment_method": "نقدي",
+      "employee_id": 19,
+      "branch_id": 1,
+      "customer_id": 19
+    },
+    {
+      "invoice_id": 20,
+      "invoice_date": "2026-11-02 20:15:00",
+      "total_amount": 40,
+      "payment_method": "نقدي",
+      "employee_id": 20,
+      "branch_id": 1,
+      "customer_id": 20
+    },
+    {
+      "invoice_id": 21,
+      "invoice_date": "2026-11-03 09:00:10",
+      "total_amount": 175,
+      "payment_method": "فيزا",
+      "employee_id": 21,
+      "branch_id": 1,
+      "customer_id": 21
+    },
+    {
+      "invoice_id": 22,
+      "invoice_date": "2026-11-03 10:20:40",
+      "total_amount": 320,
+      "payment_method": "نقدي",
+      "employee_id": 22,
+      "branch_id": 1,
+      "customer_id": 22
+    },
+    {
+      "invoice_id": 23,
+      "invoice_date": "2026-11-03 11:35:15",
+      "total_amount": 104,
+      "payment_method": "محفظة إلكترونية",
+      "employee_id": 23,
+      "branch_id": 1,
+      "customer_id": 23
+    },
+    {
+      "invoice_id": 24,
+      "invoice_date": "2026-11-03 13:10:00",
+      "total_amount": 20,
+      "payment_method": "نقدي",
+      "employee_id": 24,
+      "branch_id": 1,
+      "customer_id": 24
+    },
+    {
+      "invoice_id": 25,
+      "invoice_date": "2026-11-03 14:30:25",
+      "total_amount": 90,
+      "payment_method": "فيزا",
+      "employee_id": 25,
+      "branch_id": 1,
+      "customer_id": 25
+    },
+    {
+      "invoice_id": 26,
+      "invoice_date": "2026-11-03 15:45:50",
+      "total_amount": 450,
+      "payment_method": "نقدي",
+      "employee_id": 26,
+      "branch_id": 1,
+      "customer_id": 26
+    },
+    {
+      "invoice_id": 27,
+      "invoice_date": "2026-11-03 16:55:12",
+      "total_amount": 58,
+      "payment_method": "فيزا",
+      "employee_id": 27,
+      "branch_id": 1,
+      "customer_id": 27
+    },
+    {
+      "invoice_id": 28,
+      "invoice_date": "2026-11-03 18:15:00",
+      "total_amount": 80,
+      "payment_method": "نقدي",
+      "employee_id": 28,
+      "branch_id": 1,
+      "customer_id": 28
+    },
+    {
+      "invoice_id": 29,
+      "invoice_date": "2026-11-03 19:40:35",
+      "total_amount": 160,
+      "payment_method": "محفظة إلكترونية",
+      "employee_id": 29,
+      "branch_id": 1,
+      "customer_id": 29
+    },
+    {
+      "invoice_id": 30,
+      "invoice_date": "2026-11-03 21:05:00",
+      "total_amount": 150,
+      "payment_method": "نقدي",
+      "employee_id": 30,
+      "branch_id": 1,
+      "customer_id": 30
+    },
+    {
+      "invoice_id": 31,
+      "invoice_date": "2026-11-04 08:45:20",
+      "total_amount": 85,
+      "payment_method": "فيزا",
+      "employee_id": 31,
+      "branch_id": 1,
+      "customer_id": 31
+    },
+    {
+      "invoice_id": 32,
+      "invoice_date": "2026-11-04 10:00:11",
+      "total_amount": 36,
+      "payment_method": "نقدي",
+      "employee_id": 32,
+      "branch_id": 1,
+      "customer_id": 32
+    },
+    {
+      "invoice_id": 33,
+      "invoice_date": "2026-11-04 11:15:30",
+      "total_amount": 400,
+      "payment_method": "فيزا",
+      "employee_id": 33,
+      "branch_id": 1,
+      "customer_id": 33
+    },
+    {
+      "invoice_id": 34,
+      "invoice_date": "2026-11-04 12:45:44",
+      "total_amount": 25,
+      "payment_method": "نقدي",
+      "employee_id": 34,
+      "branch_id": 1,
+      "customer_id": 34
+    },
+    {
+      "invoice_id": 35,
+      "invoice_date": "2026-11-04 14:00:05",
+      "total_amount": 76,
+      "payment_method": "محفظة إلكترونية",
+      "employee_id": 35,
+      "branch_id": 1,
+      "customer_id": 35
+    },
+    {
+      "invoice_id": 36,
+      "invoice_date": "2026-11-04 15:15:22",
+      "total_amount": 42,
+      "payment_method": "نقدي",
+      "employee_id": 36,
+      "branch_id": 1,
+      "customer_id": 36
+    },
+    {
+      "invoice_id": 37,
+      "invoice_date": "2026-11-04 16:30:00",
+      "total_amount": 39,
+      "payment_method": "فيزا",
+      "employee_id": 37,
+      "branch_id": 1,
+      "customer_id": 37
+    },
+    {
+      "invoice_id": 38,
+      "invoice_date": "2026-11-04 17:45:55",
+      "total_amount": 88.25,
+      "payment_method": "نقدي",
+      "employee_id": 38,
+      "branch_id": 1,
+      "customer_id": 38
+    },
+    {
+      "invoice_id": 39,
+      "invoice_date": "2026-11-04 19:00:10",
+      "total_amount": 70,
+      "payment_method": "فيزا",
+      "employee_id": 39,
+      "branch_id": 1,
+      "customer_id": 39
+    },
+    {
+      "invoice_id": 40,
+      "invoice_date": "2026-11-04 20:20:30",
+      "total_amount": 26,
+      "payment_method": "نقدي",
+      "employee_id": 40,
+      "branch_id": 1,
+      "customer_id": 40
+    },
+    {
+      "invoice_id": 41,
+      "invoice_date": "2026-11-05 08:15:00",
+      "total_amount": 34,
+      "payment_method": "محفظة إلكترونية",
+      "employee_id": 41,
+      "branch_id": 1,
+      "customer_id": 41
+    },
+    {
+      "invoice_id": 42,
+      "invoice_date": "2026-11-05 09:30:12",
+      "total_amount": 49,
+      "payment_method": "نقدي",
+      "employee_id": 42,
+      "branch_id": 1,
+      "customer_id": 42
+    },
+    {
+      "invoice_id": 43,
+      "invoice_date": "2026-11-05 10:45:25",
+      "total_amount": 95,
+      "payment_method": "فيزا",
+      "employee_id": 43,
+      "branch_id": 1,
+      "customer_id": 43
+    },
+    {
+      "invoice_id": 44,
+      "invoice_date": "2026-11-05 11:55:00",
+      "total_amount": 22,
+      "payment_method": "نقدي",
+      "employee_id": 44,
+      "branch_id": 1,
+      "customer_id": 44
+    },
+    {
+      "invoice_id": 45,
+      "invoice_date": "2026-11-05 13:10:40",
+      "total_amount": 45,
+      "payment_method": "فيزا",
+      "employee_id": 45,
+      "branch_id": 1,
+      "customer_id": 45
+    },
+    {
+      "invoice_id": 46,
+      "invoice_date": "2026-11-05 14:20:15",
+      "total_amount": 230,
+      "payment_method": "نقدي",
+      "employee_id": 46,
+      "branch_id": 1,
+      "customer_id": 46
+    },
+    {
+      "invoice_id": 47,
+      "invoice_date": "2026-11-05 15:35:50",
+      "total_amount": 42,
+      "payment_method": "محفظة إلكترونية",
+      "employee_id": 47,
+      "branch_id": 1,
+      "customer_id": 47
+    },
+    {
+      "invoice_id": 48,
+      "invoice_date": "2026-11-05 16:45:00",
+      "total_amount": 31.5,
+      "payment_method": "نقدي",
+      "employee_id": 48,
+      "branch_id": 1,
+      "customer_id": 48
+    },
+    {
+      "invoice_id": 49,
+      "invoice_date": "2026-11-05 17:55:11",
+      "total_amount": 29,
+      "payment_method": "فيزا",
+      "employee_id": 49,
+      "branch_id": 1,
+      "customer_id": 49
+    },
+    {
+      "invoice_id": 50,
+      "invoice_date": "2026-11-05 19:10:00",
+      "total_amount": 24,
+      "payment_method": "نقدي",
+      "employee_id": 50,
+      "branch_id": 1,
+      "customer_id": 50
+    }
+  ],
+  "invoiceDetails": [
+    {
+      "invoice_id": 1,
+      "item_id": 1,
+      "unit_price": 35,
+      "discount_amount": 0,
+      "sold_quantity": 2,
+      "medicine_id": 1
+    },
+    {
+      "invoice_id": 2,
+      "item_id": 1,
+      "unit_price": 120,
+      "discount_amount": 0,
+      "sold_quantity": 2,
+      "medicine_id": 2
+    },
+    {
+      "invoice_id": 3,
+      "item_id": 1,
+      "unit_price": 55,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 3
+    },
+    {
+      "invoice_id": 4,
+      "item_id": 1,
+      "unit_price": 48.5,
+      "discount_amount": 0,
+      "sold_quantity": 2,
+      "medicine_id": 4
+    },
+    {
+      "invoice_id": 5,
+      "item_id": 1,
+      "unit_price": 32,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 5
+    },
+    {
+      "invoice_id": 6,
+      "item_id": 1,
+      "unit_price": 28,
+      "discount_amount": 0,
+      "sold_quantity": 2,
+      "medicine_id": 6
+    },
+    {
+      "invoice_id": 7,
+      "item_id": 1,
+      "unit_price": 42,
+      "discount_amount": 0,
+      "sold_quantity": 10,
+      "medicine_id": 7
+    },
+    {
+      "invoice_id": 8,
+      "item_id": 1,
+      "unit_price": 210,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 8
+    },
+    {
+      "invoice_id": 9,
+      "item_id": 1,
+      "unit_price": 60,
+      "discount_amount": 0,
+      "sold_quantity": 2,
+      "medicine_id": 9
+    },
+    {
+      "invoice_id": 10,
+      "item_id": 1,
+      "unit_price": 45,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 10
+    },
+    {
+      "invoice_id": 11,
+      "item_id": 1,
+      "unit_price": 38,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 11
+    },
+    {
+      "invoice_id": 12,
+      "item_id": 1,
+      "unit_price": 65,
+      "discount_amount": 0,
+      "sold_quantity": 2,
+      "medicine_id": 12
+    },
+    {
+      "invoice_id": 13,
+      "item_id": 1,
+      "unit_price": 112,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 13
+    },
+    {
+      "invoice_id": 14,
+      "item_id": 1,
+      "unit_price": 40,
+      "discount_amount": 0,
+      "sold_quantity": 2,
+      "medicine_id": 14
+    },
+    {
+      "invoice_id": 15,
+      "item_id": 1,
+      "unit_price": 750,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 15
+    },
+    {
+      "invoice_id": 16,
+      "item_id": 1,
+      "unit_price": 22,
+      "discount_amount": 0,
+      "sold_quantity": 2,
+      "medicine_id": 16
+    },
+    {
+      "invoice_id": 17,
+      "item_id": 1,
+      "unit_price": 140,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 17
+    },
+    {
+      "invoice_id": 18,
+      "item_id": 1,
+      "unit_price": 280,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 18
+    },
+    {
+      "invoice_id": 19,
+      "item_id": 1,
+      "unit_price": 94,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 19
+    },
+    {
+      "invoice_id": 20,
+      "item_id": 1,
+      "unit_price": 40,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 20
+    },
+    {
+      "invoice_id": 21,
+      "item_id": 1,
+      "unit_price": 175,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 21
+    },
+    {
+      "invoice_id": 22,
+      "item_id": 1,
+      "unit_price": 320,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 22
+    },
+    {
+      "invoice_id": 23,
+      "item_id": 1,
+      "unit_price": 52,
+      "discount_amount": 0,
+      "sold_quantity": 2,
+      "medicine_id": 23
+    },
+    {
+      "invoice_id": 24,
+      "item_id": 1,
+      "unit_price": 20,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 24
+    },
+    {
+      "invoice_id": 25,
+      "item_id": 1,
+      "unit_price": 90,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 25
+    },
+    {
+      "invoice_id": 26,
+      "item_id": 1,
+      "unit_price": 450,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 26
+    },
+    {
+      "invoice_id": 27,
+      "item_id": 1,
+      "unit_price": 58,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 27
+    },
+    {
+      "invoice_id": 28,
+      "item_id": 1,
+      "unit_price": 80,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 28
+    },
+    {
+      "invoice_id": 29,
+      "item_id": 1,
+      "unit_price": 160,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 29
+    },
+    {
+      "invoice_id": 30,
+      "item_id": 1,
+      "unit_price": 150,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 30
+    },
+    {
+      "invoice_id": 31,
+      "item_id": 1,
+      "unit_price": 85,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 31
+    },
+    {
+      "invoice_id": 32,
+      "item_id": 1,
+      "unit_price": 36,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 32
+    },
+    {
+      "invoice_id": 33,
+      "item_id": 1,
+      "unit_price": 400,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 33
+    },
+    {
+      "invoice_id": 34,
+      "item_id": 1,
+      "unit_price": 25,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 34
+    },
+    {
+      "invoice_id": 35,
+      "item_id": 1,
+      "unit_price": 76,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 35
+    },
+    {
+      "invoice_id": 36,
+      "item_id": 1,
+      "unit_price": 42,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 36
+    },
+    {
+      "invoice_id": 37,
+      "item_id": 1,
+      "unit_price": 39,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 37
+    },
+    {
+      "invoice_id": 38,
+      "item_id": 1,
+      "unit_price": 88.25,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 38
+    },
+    {
+      "invoice_id": 39,
+      "item_id": 1,
+      "unit_price": 70,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 39
+    },
+    {
+      "invoice_id": 40,
+      "item_id": 1,
+      "unit_price": 26,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 40
+    },
+    {
+      "invoice_id": 41,
+      "item_id": 1,
+      "unit_price": 34,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 41
+    },
+    {
+      "invoice_id": 42,
+      "item_id": 1,
+      "unit_price": 49,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 42
+    },
+    {
+      "invoice_id": 43,
+      "item_id": 1,
+      "unit_price": 95,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 43
+    },
+    {
+      "invoice_id": 44,
+      "item_id": 1,
+      "unit_price": 22,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 44
+    },
+    {
+      "invoice_id": 45,
+      "item_id": 1,
+      "unit_price": 45,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 45
+    },
+    {
+      "invoice_id": 46,
+      "item_id": 1,
+      "unit_price": 230,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 46
+    },
+    {
+      "invoice_id": 47,
+      "item_id": 1,
+      "unit_price": 42,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 47
+    },
+    {
+      "invoice_id": 48,
+      "item_id": 1,
+      "unit_price": 31.5,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 48
+    },
+    {
+      "invoice_id": 49,
+      "item_id": 1,
+      "unit_price": 29,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 49
+    },
+    {
+      "invoice_id": 50,
+      "item_id": 1,
+      "unit_price": 24,
+      "discount_amount": 0,
+      "sold_quantity": 1,
+      "medicine_id": 50
+    }
+  ],
+  "deliveries": [
+    {
+      "delivery_id": 1,
+      "driver_name": "كابتن أحمد حسن",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-01 09:30:00",
+      "delivery_fees": 15,
+      "customer_signature": "أحمد محمد",
+      "invoice_id": 1
+    },
+    {
+      "delivery_id": 2,
+      "driver_name": "كابتن محمود علي",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-01 10:45:00",
+      "delivery_fees": 20,
+      "customer_signature": "سارة مصطفى",
+      "invoice_id": 2
+    },
+    {
+      "delivery_id": 3,
+      "driver_name": "كابتن مصطفى عمر",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-01 12:00:00",
+      "delivery_fees": 15,
+      "customer_signature": "محمد عبد الرحمن",
+      "invoice_id": 3
+    },
+    {
+      "delivery_id": 4,
+      "driver_name": "كابتن هاني سلامة",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-01 13:20:00",
+      "delivery_fees": 25,
+      "customer_signature": "فاطمة إبراهيم",
+      "invoice_id": 4
+    },
+    {
+      "delivery_id": 5,
+      "driver_name": "كابتن شريف بدوي",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-01 14:30:00",
+      "delivery_fees": 15,
+      "customer_signature": "عمر شريف",
+      "invoice_id": 5
+    },
+    {
+      "delivery_id": 6,
+      "driver_name": "كابتن خالد عثمان",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-01 15:40:00",
+      "delivery_fees": 20,
+      "customer_signature": "منى أحمد",
+      "invoice_id": 6
+    },
+    {
+      "delivery_id": 7,
+      "driver_name": "كابتن كريم هاني",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-01 16:55:00",
+      "delivery_fees": 15,
+      "customer_signature": "خالد محمود",
+      "invoice_id": 7
+    },
+    {
+      "delivery_id": 8,
+      "driver_name": "كابتن طارق مرسي",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-01 18:10:00",
+      "delivery_fees": 20,
+      "customer_signature": "رشا سعيد",
+      "invoice_id": 8
+    },
+    {
+      "delivery_id": 9,
+      "driver_name": "كابتن هيثم سمير",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-01 19:30:00",
+      "delivery_fees": 15,
+      "customer_signature": "محمود علي",
+      "invoice_id": 9
+    },
+    {
+      "delivery_id": 10,
+      "driver_name": "كابتن عمرو وجدي",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-01 21:00:00",
+      "delivery_fees": 25,
+      "customer_signature": "دينا حسين",
+      "invoice_id": 10
+    },
+    {
+      "delivery_id": 11,
+      "driver_name": "كابتن شادي إيهاب",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-02 08:50:00",
+      "delivery_fees": 15,
+      "customer_signature": "كريم هاني",
+      "invoice_id": 11
+    },
+    {
+      "delivery_id": 12,
+      "driver_name": "كابتن وائل بهجت",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-02 10:05:00",
+      "delivery_fees": 20,
+      "customer_signature": "مروة نبيل",
+      "invoice_id": 12
+    },
+    {
+      "delivery_id": 13,
+      "driver_name": "كابتن سامح طلعت",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-02 11:20:00",
+      "delivery_fees": 15,
+      "customer_signature": "هيثم سمير",
+      "invoice_id": 13
+    },
+    {
+      "delivery_id": 14,
+      "driver_name": "كابتن تامر جلال",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-02 12:35:00",
+      "delivery_fees": 20,
+      "customer_signature": "شيماء فاروق",
+      "invoice_id": 14
+    },
+    {
+      "delivery_id": 15,
+      "driver_name": "كابتن إيهاب ضياء",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-02 14:00:00",
+      "delivery_fees": 15,
+      "customer_signature": "طارق مرسي",
+      "invoice_id": 15
+    },
+    {
+      "delivery_id": 16,
+      "driver_name": "كابتن عادل رمزي",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-02 15:15:00",
+      "delivery_fees": 25,
+      "customer_signature": "نهى شفيق",
+      "invoice_id": 16
+    },
+    {
+      "delivery_id": 17,
+      "driver_name": "كابتن أمجد رأفت",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-02 16:30:00",
+      "delivery_fees": 15,
+      "customer_signature": "يوسف أمجد",
+      "invoice_id": 17
+    },
+    {
+      "delivery_id": 18,
+      "driver_name": "كابتن سيد محروس",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-02 17:45:00",
+      "delivery_fees": 20,
+      "customer_signature": "إيمان علاء",
+      "invoice_id": 18
+    },
+    {
+      "delivery_id": 19,
+      "driver_name": "كابتن توفيق عبد الحي",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-02 19:10:00",
+      "delivery_fees": 15,
+      "customer_signature": "مصطفى كامل",
+      "invoice_id": 19
+    },
+    {
+      "delivery_id": 20,
+      "driver_name": "كابتن سامي محمود",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-02 20:35:00",
+      "delivery_fees": 15,
+      "customer_signature": "علا رفعت",
+      "invoice_id": 20
+    },
+    {
+      "delivery_id": 21,
+      "driver_name": "كابتن محمد أحمد",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-03 09:20:00",
+      "delivery_fees": 20,
+      "customer_signature": "عمرو وجدي",
+      "invoice_id": 21
+    },
+    {
+      "delivery_id": 22,
+      "driver_name": "كابتن عبد الرحمن محمد",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-03 10:40:00",
+      "delivery_fees": 15,
+      "customer_signature": "ياسمين مجدي",
+      "invoice_id": 22
+    },
+    {
+      "delivery_id": 23,
+      "driver_name": "كابتن مصطفى كمال",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-03 11:55:00",
+      "delivery_fees": 25,
+      "customer_signature": "شريف مدحت",
+      "invoice_id": 23
+    },
+    {
+      "delivery_id": 24,
+      "driver_name": "كابتن أحمد شريف",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-03 13:25:00",
+      "delivery_fees": 15,
+      "customer_signature": "رانيا ممدوح",
+      "invoice_id": 24
+    },
+    {
+      "delivery_id": 25,
+      "driver_name": "كابتن منى فتحي",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-03 14:50:00",
+      "delivery_fees": 20,
+      "customer_signature": "حازم أشرف",
+      "invoice_id": 25
+    },
+    {
+      "delivery_id": 26,
+      "driver_name": "كابتن خالد عثمان",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-03 16:05:00",
+      "delivery_fees": 15,
+      "customer_signature": "هدى عبد العزيز",
+      "invoice_id": 26
+    },
+    {
+      "delivery_id": 27,
+      "driver_name": "كابتن رشا سعيد",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-03 17:15:00",
+      "delivery_fees": 20,
+      "customer_signature": "شادي إيهاب",
+      "invoice_id": 27
+    },
+    {
+      "delivery_id": 28,
+      "driver_name": "كابتن نهى شفيق",
+      "delivery_status": "في الطريق",
+      "departure_time": "2026-11-03 18:30:00",
+      "delivery_fees": 15,
+      "customer_signature": "موقع إلكتروني",
+      "invoice_id": 28
+    },
+    {
+      "delivery_id": 29,
+      "driver_name": "كابتن كريم هاني",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-03 19:55:00",
+      "delivery_fees": 25,
+      "customer_signature": "ندى طارق",
+      "invoice_id": 29
+    },
+    {
+      "delivery_id": 30,
+      "driver_name": "كابتن دينا حسين",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-03 21:20:00",
+      "delivery_fees": 15,
+      "customer_signature": "رامي عصام",
+      "invoice_id": 30
+    },
+    {
+      "delivery_id": 31,
+      "driver_name": "كابتن طارق مرسي",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-04 09:05:00",
+      "delivery_fees": 20,
+      "customer_signature": "مها مسعد",
+      "invoice_id": 31
+    },
+    {
+      "delivery_id": 32,
+      "driver_name": "كابتن هيثم سمير",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-04 10:20:00",
+      "delivery_fees": 15,
+      "customer_signature": "وائل بهجت",
+      "invoice_id": 32
+    },
+    {
+      "delivery_id": 33,
+      "driver_name": "كابتن شيماء فاروق",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-04 11:35:00",
+      "delivery_fees": 20,
+      "customer_signature": "مروة عبد الجليل",
+      "invoice_id": 33
+    },
+    {
+      "delivery_id": 34,
+      "driver_name": "كابتن مروة نبيل",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-04 13:05:00",
+      "delivery_fees": 15,
+      "customer_signature": "أمير رأفت",
+      "invoice_id": 34
+    },
+    {
+      "delivery_id": 35,
+      "driver_name": "كابتن يوسف أمجد",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-04 14:20:00",
+      "delivery_fees": 25,
+      "customer_signature": "جيهان كمال",
+      "invoice_id": 35
+    },
+    {
+      "delivery_id": 36,
+      "driver_name": "كابتن إيمان علاء",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-04 15:35:00",
+      "delivery_fees": 15,
+      "customer_signature": "سامح طلعت",
+      "invoice_id": 36
+    },
+    {
+      "delivery_id": 37,
+      "driver_name": "كابتن علا رفعت",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-04 16:50:00",
+      "delivery_fees": 20,
+      "customer_signature": "لبنى سعيد",
+      "invoice_id": 37
+    },
+    {
+      "delivery_id": 38,
+      "driver_name": "كابتن عمرو وجدي",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-04 18:05:00",
+      "delivery_fees": 15,
+      "customer_signature": "تامر جلال",
+      "invoice_id": 38
+    },
+    {
+      "delivery_id": 39,
+      "driver_name": "كابتن ياسمين مجدي",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-04 19:20:00",
+      "delivery_fees": 20,
+      "customer_signature": "دعاء عبد الفتاح",
+      "invoice_id": 39
+    },
+    {
+      "delivery_id": 40,
+      "driver_name": "كابتن شريف مدحت",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-04 20:40:00",
+      "delivery_fees": 15,
+      "customer_signature": "إيهاب ضياء",
+      "invoice_id": 40
+    },
+    {
+      "delivery_id": 41,
+      "driver_name": "كابتن رانيا ممدوح",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-05 08:35:00",
+      "delivery_fees": 25,
+      "customer_signature": "نرمين عادل",
+      "invoice_id": 41
+    },
+    {
+      "delivery_id": 42,
+      "driver_name": "كابتن حازم أشرف",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-05 09:50:00",
+      "delivery_fees": 15,
+      "customer_signature": "عادل رمزي",
+      "invoice_id": 42
+    },
+    {
+      "delivery_id": 43,
+      "driver_name": "كابتن هدى عبد العزيز",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-05 11:05:00",
+      "delivery_fees": 20,
+      "customer_signature": "ميرفت رفعت",
+      "invoice_id": 43
+    },
+    {
+      "delivery_id": 44,
+      "driver_name": "كابتن شادي إيهاب",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-05 12:15:00",
+      "delivery_fees": 15,
+      "customer_signature": "أمجد رأفت",
+      "invoice_id": 44
+    },
+    {
+      "delivery_id": 45,
+      "driver_name": "كابتن ندى طارق",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-05 13:30:00",
+      "delivery_fees": 20,
+      "customer_signature": "سحر أنور",
+      "invoice_id": 45
+    },
+    {
+      "delivery_id": 46,
+      "driver_name": "كابتن رامي عصام",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-05 14:40:00",
+      "delivery_fees": 15,
+      "customer_signature": "حاتم عز الدين",
+      "invoice_id": 46
+    },
+    {
+      "delivery_id": 47,
+      "driver_name": "كابتن مها مسعد",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-05 15:55:00",
+      "delivery_fees": 25,
+      "customer_signature": "منى صابر",
+      "invoice_id": 47
+    },
+    {
+      "delivery_id": 48,
+      "driver_name": "كابتن وائل بهجت",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-05 17:05:00",
+      "delivery_fees": 15,
+      "customer_signature": "سيد محروس",
+      "invoice_id": 48
+    },
+    {
+      "delivery_id": 49,
+      "driver_name": "كابتن سامح طلعت",
+      "delivery_status": "تم التوصيل",
+      "departure_time": "2026-11-05 18:15:00",
+      "delivery_fees": 20,
+      "customer_signature": "هناء عبد الله",
+      "invoice_id": 49
+    },
+    {
+      "delivery_id": 50,
+      "driver_name": "كابتن لبنى سعيد",
+      "delivery_status": "في الانتظار",
+      "departure_time": "2026-11-05 19:15:00",
+      "delivery_fees": 15,
+      "customer_signature": "توفيق عبد الحي",
+      "invoice_id": 50
+    }
+  ]
+}
